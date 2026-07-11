@@ -21,4 +21,16 @@ public class AuthService {
     user.setPassword(passwordEncoder.encode(request.password()));
     userRepository.save(user);
   }
+
+  public String login(AuthRequest request){
+    User user = userRepository
+      .findByEmail(request.email())
+      .orElseThrow(() -> new RuntimeException("Usuário não encontrado"));
+
+    if(!passwordEncoder.matches(request.password(), user.getPassword())){
+      throw new RuntimeException("Senha inválida");
+    }
+
+    return "TOKEN";
+  }
 }
