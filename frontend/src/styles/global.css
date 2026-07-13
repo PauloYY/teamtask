@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-family);
+    transition: var(--transition-normal);
+}
+
+body {
+    background-color: var(--color-background);
+    color: var(--color-text);
+}
+
+main {
+    padding: var(--space-md) var(--space-lg);
+}
+
+.main-title {
+    font-size: var(--font-size-2xl);
+    font-weight: var(--font-weight-bold);
+}

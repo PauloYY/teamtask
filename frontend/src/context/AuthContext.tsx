@@ -6,8 +6,8 @@ interface Properties {
 
 export interface InterfaceAuthContext {
     authenticated: boolean;
-    login: Function;
-    logout: Function;
+    login: (arg0: string) => void;
+    logout: () => void;
 }
 
 export const AuthContext = createContext<InterfaceAuthContext|null>(null);
