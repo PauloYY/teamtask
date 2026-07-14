@@ -13,6 +13,7 @@ import lombok.RequiredArgsConstructor;
 public class AuthService {
   private final UserRepository userRepository;
   private final PasswordEncoder passwordEncoder;
+  private final JwtService jwtService;
 
   public void register(RegisterRequest request) {
     User user = new User();
@@ -31,6 +32,6 @@ public class AuthService {
       throw new RuntimeException("Senha inválida");
     }
 
-    return "TOKEN";
+    return jwtService.generateToken(user);
   }
 }
