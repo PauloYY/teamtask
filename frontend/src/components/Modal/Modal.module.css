@@ -1,0 +1,22 @@
+.centralizer {
+    position: absolute;
+    display: flex;
+    width: calc(100vw - 2*var(--space-lg));
+    height: calc(100vh - 2*var(--space-md));
+    border-radius: var(--radius-lg);
+    background-color: #00000010;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.10);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    min-width: 30%;
+    max-width: 400px;
+    width: 80%;
+    padding: var(--space-lg);
+    border: 1px solid var(--color-border-strong);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-lg);
+    background-color: var(--color-surface);
+}

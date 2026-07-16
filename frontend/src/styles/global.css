@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: var(--font-family);
+    font: var(--font-weight-medium) var(--font-size-md) var(--font-family);
     transition: var(--transition-normal);
 }
 
@@ -14,7 +14,13 @@ main {
     padding: var(--space-md) var(--space-lg);
 }
 
-.main-title {
+.title-main {
     font-size: var(--font-size-2xl);
     font-weight: var(--font-weight-bold);
+    margin-bottom: var(--space-xl);
+    border-bottom: 2px solid var(--color-border-strong);
+}
+
+.link {
+    color: var(--color-info);
 }

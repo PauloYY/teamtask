@@ -1,17 +1,17 @@
 .header {
     background-color: var(--color-surface);
-    box-shadow: var(--shadow-md);
+    box-shadow: var(--shadow-lg);
     padding: var(--space-lg) var(--space-lg);
 }
 
-.header-top-row {
+.headerTopRow {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
 }
 
-.header-title {
+.titleHeader {
     font-size: var(--font-size-3xl);
     font-weight: var(--font-weight-bold);
 }
@@ -24,33 +24,33 @@
     gap: var(--space-sm);
 }
 
-.nav-li {
+.navLi {
     list-style: none;
 }
 
-.nav-item {
+.navItem {
     text-decoration: none;
     font-weight: var(--font-weight-semibold);
     padding: var(--space-sm) var(--space-md);
-    border: 1px solid var(--color-border);
+    border: 2px solid var(--color-border-strong);
     border-radius: var(--radius-md);
     background-color: var(--color-primary);
     color: var(--color-text);
     transition: var(--transition-fast);
 }
 
-.nav-item:hover {
+.navItem:hover {
     background-color: var(--color-primary-hover);
 }
 
-.button-theme {
+.buttonTheme {
     padding: var(--space-xs);
-    border: 1px solid var(--color-border);
+    border: 2px solid var(--color-border-strong);
     border-radius: var(--space-sm);
     margin: var(--space-xs);
 }
 
-.button-theme:hover {
+.buttonTheme:hover {
     cursor: pointer;
     text-decoration: underline;
 }
