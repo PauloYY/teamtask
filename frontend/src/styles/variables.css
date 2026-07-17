@@ -37,9 +37,9 @@
 
   /* ======== Sombras ======== */
 
-  --shadow-sm: 0 2px 8px rgba(15, 23, 42, 0.06);   /* Sombra leve */
-  --shadow-md: 0 8px 20px rgba(15, 23, 42, 0.08);  /* Sombra padrão para cards */
-  --shadow-lg: 0 14px 32px rgba(15, 23, 42, 0.12); /* Sombra forte para modais e elementos elevados */
+  --shadow-sm: 0 2px 8px rgba(15, 23, 42, 0.08);   /* Sombra leve */
+  --shadow-md: 0 8px 20px rgba(15, 23, 42, 0.12);  /* Sombra padrão para cards */
+  --shadow-lg: 0 14px 32px rgba(15, 23, 42, 0.20); /* Sombra forte para modais e elementos elevados */
 
   /* ======== Bordas arredondadas ======== */
 

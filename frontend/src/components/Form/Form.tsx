@@ -1,5 +1,6 @@
-import { createContext, useContext, useState, type ReactNode } from "react";
+import { createContext, useContext, useState, type Dispatch, type ReactNode, type SetStateAction } from "react";
 import styles from "./Form.module.css";
+import type { TypeToast } from "../Toast/Toast";
 
 interface Inputs {
     [idInput : string] : string;
@@ -16,13 +17,33 @@ interface FormProperties {
     children : ReactNode;
     submitName : string;
     submit : () => void;
+    statesNames : { [key : string] : string };
+    setStates : { [key : string] : Dispatch<SetStateAction<string>> };
+    toast? : {
+        setExibToast : Dispatch<SetStateAction<boolean>>,
+        setTypeToast : Dispatch<SetStateAction<TypeToast>>,
+        setMessageToast : Dispatch<SetStateAction<string>>
+    };
 }
 
-export function Form({children, submitName, submit} : FormProperties){
-    const [inputsValue, setInputValue] = useState<Inputs|null>(null);
+export function Form({children, submitName, submit, statesNames, setStates, toast} : FormProperties){
+    const states : Inputs = {};
+    Object.keys(statesNames).map(stateName => states[stateName] = "");
+    const [inputsValue, setInputValue] = useState<Inputs>(states);
 
     function submitHandle(event: React.SubmitEvent<HTMLFormElement>){
         event.preventDefault();
+
+        if(
+            Object.values(inputsValue).some(inputValue =>
+                inputValue === "" ||
+                inputValue === null)
+        ){
+            toast?.setExibToast(true);
+            toast?.setTypeToast("warning");
+            toast?.setMessageToast("Todos os campos devem ser preenchidos!");
+            return;
+        }
 
         submit();
     }
@@ -32,6 +53,9 @@ export function Form({children, submitName, submit} : FormProperties){
             ...(prev ?? {}),
             [idInput]: value,
         }));
+
+        const stateName = statesNames[idInput]
+        setStates[stateName](value);
     }
 
     return(
