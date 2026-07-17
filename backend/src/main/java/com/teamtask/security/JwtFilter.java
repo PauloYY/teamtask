@@ -1,4 +1,4 @@
-package com.teamtask.auth;
+package com.teamtask.security;
 
 import java.io.IOException;
 import java.util.Optional;

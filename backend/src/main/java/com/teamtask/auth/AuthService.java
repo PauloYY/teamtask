@@ -3,6 +3,10 @@ package com.teamtask.auth;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
+import com.teamtask.exception.ConflictException;
+import com.teamtask.exception.NotFoundException;
+import com.teamtask.exception.UnauthorizedException;
+import com.teamtask.security.JwtService;
 import com.teamtask.user.User;
 import com.teamtask.user.UserRepository;
 
@@ -16,6 +20,10 @@ public class AuthService {
   private final JwtService jwtService;
 
   public void register(RegisterRequest request) {
+    if (userRepository.existsByEmail(request.email())) {
+      throw new ConflictException("Email já cadastrado");
+    }
+    
     User user = new User();
     user.setUsername(request.username());
     user.setEmail(request.email());
@@ -26,10 +34,10 @@ public class AuthService {
   public String login(AuthRequest request){
     User user = userRepository
       .findByEmail(request.email())
-      .orElseThrow(() -> new RuntimeException("Usuário não encontrado"));
+      .orElseThrow(() -> new NotFoundException("Usuário não encontrado"));
 
     if(!passwordEncoder.matches(request.password(), user.getPassword())){
-      throw new RuntimeException("Senha inválida");
+      throw new UnauthorizedException("Senha inválida");
     }
 
     return jwtService.generateToken(user);

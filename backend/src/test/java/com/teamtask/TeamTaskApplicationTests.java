@@ -1,10 +1,10 @@
-package com.teamtask.backend;
+package com.teamtask;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendApplicationTests {
+class TeamTaskApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -8,12 +8,9 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 
-import com.teamtask.auth.JwtFilter;
+import com.teamtask.security.JwtFilter;
 
 import lombok.RequiredArgsConstructor;
-
-import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
-import org.springframework.security.config.Customizer;
 
 @Configuration
 @RequiredArgsConstructor

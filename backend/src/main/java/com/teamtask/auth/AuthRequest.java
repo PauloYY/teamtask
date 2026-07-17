@@ -1,3 +1,15 @@
 package com.teamtask.auth;
 
-public record AuthRequest(String email, String password) {}
+import jakarta.validation.constraints.Email;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.Size;
+
+public record AuthRequest(
+    @NotBlank(message="Email obrigatório")
+    @Email(message="Email inválido")
+    String email, 
+
+    @NotBlank(message="Senha obrigatória")
+    @Size(min=6, message="Senha deve ter no mínimo 6 caracteres")
+    String password
+) {}
