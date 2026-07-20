@@ -1,0 +1,56 @@
+.header {
+    background-color: var(--color-surface);
+    box-shadow: var(--shadow-lg);
+    padding: var(--space-lg) var(--space-lg);
+}
+
+.headerTopRow {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titleHeader {
+    font-size: var(--font-size-3xl);
+    font-weight: var(--font-weight-bold);
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    margin: var(--space-md) 0;
+    margin-left: var(--space-sm);
+    gap: var(--space-sm);
+}
+
+.navLi {
+    list-style: none;
+}
+
+.navItem {
+    text-decoration: none;
+    font-weight: var(--font-weight-semibold);
+    padding: var(--space-sm) var(--space-md);
+    border: 2px solid var(--color-border-strong);
+    border-radius: var(--radius-md);
+    background-color: var(--color-primary);
+    color: var(--color-text);
+    transition: var(--transition-fast);
+}
+
+.navItem:hover {
+    background-color: var(--color-primary-hover);
+}
+
+.buttonTheme {
+    padding: var(--space-xs);
+    border: 2px solid var(--color-border-strong);
+    border-radius: var(--space-sm);
+    margin: var(--space-xs);
+}
+
+.buttonTheme:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

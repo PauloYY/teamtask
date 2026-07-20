@@ -1,0 +1,6948 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Usuário 1",
+      "email": "user1@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 2,
+      "name": "Usuário 2",
+      "email": "user2@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 3,
+      "name": "Usuário 3",
+      "email": "user3@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 4,
+      "name": "Usuário 4",
+      "email": "user4@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 5,
+      "name": "Usuário 5",
+      "email": "user5@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 6,
+      "name": "Usuário 6",
+      "email": "user6@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 7,
+      "name": "Usuário 7",
+      "email": "user7@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 8,
+      "name": "Usuário 8",
+      "email": "user8@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 9,
+      "name": "Usuário 9",
+      "email": "user9@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 10,
+      "name": "Usuário 10",
+      "email": "user10@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 11,
+      "name": "Usuário 11",
+      "email": "user11@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 12,
+      "name": "Usuário 12",
+      "email": "user12@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 13,
+      "name": "Usuário 13",
+      "email": "user13@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 14,
+      "name": "Usuário 14",
+      "email": "user14@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 15,
+      "name": "Usuário 15",
+      "email": "user15@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 16,
+      "name": "Usuário 16",
+      "email": "user16@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 17,
+      "name": "Usuário 17",
+      "email": "user17@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 18,
+      "name": "Usuário 18",
+      "email": "user18@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 19,
+      "name": "Usuário 19",
+      "email": "user19@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 20,
+      "name": "Usuário 20",
+      "email": "user20@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 21,
+      "name": "Usuário 21",
+      "email": "user21@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 22,
+      "name": "Usuário 22",
+      "email": "user22@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 23,
+      "name": "Usuário 23",
+      "email": "user23@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 24,
+      "name": "Usuário 24",
+      "email": "user24@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 25,
+      "name": "Usuário 25",
+      "email": "user25@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 26,
+      "name": "Usuário 26",
+      "email": "user26@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 27,
+      "name": "Usuário 27",
+      "email": "user27@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 28,
+      "name": "Usuário 28",
+      "email": "user28@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 29,
+      "name": "Usuário 29",
+      "email": "user29@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 30,
+      "name": "Usuário 30",
+      "email": "user30@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 31,
+      "name": "Usuário 31",
+      "email": "user31@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 32,
+      "name": "Usuário 32",
+      "email": "user32@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 33,
+      "name": "Usuário 33",
+      "email": "user33@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 34,
+      "name": "Usuário 34",
+      "email": "user34@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 35,
+      "name": "Usuário 35",
+      "email": "user35@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 36,
+      "name": "Usuário 36",
+      "email": "user36@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 37,
+      "name": "Usuário 37",
+      "email": "user37@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 38,
+      "name": "Usuário 38",
+      "email": "user38@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 39,
+      "name": "Usuário 39",
+      "email": "user39@email.com",
+      "password": "$2a$mockhash"
+    },
+    {
+      "id": 40,
+      "name": "Usuário 40",
+      "email": "user40@email.com",
+      "password": "$2a$mockhash"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Grupo 1",
+      "description": "Descrição 1",
+      "inviteCode": "COD001"
+    },
+    {
+      "id": 2,
+      "name": "Grupo 2",
+      "description": "Descrição 2",
+      "inviteCode": "COD002"
+    },
+    {
+      "id": 3,
+      "name": "Grupo 3",
+      "description": "Descrição 3",
+      "inviteCode": "COD003"
+    },
+    {
+      "id": 4,
+      "name": "Grupo 4",
+      "description": "Descrição 4",
+      "inviteCode": "COD004"
+    },
+    {
+      "id": 5,
+      "name": "Grupo 5",
+      "description": "Descrição 5",
+      "inviteCode": "COD005"
+    },
+    {
+      "id": 6,
+      "name": "Grupo 6",
+      "description": "Descrição 6",
+      "inviteCode": "COD006"
+    },
+    {
+      "id": 7,
+      "name": "Grupo 7",
+      "description": "Descrição 7",
+      "inviteCode": "COD007"
+    },
+    {
+      "id": 8,
+      "name": "Grupo 8",
+      "description": "Descrição 8",
+      "inviteCode": "COD008"
+    },
+    {
+      "id": 9,
+      "name": "Grupo 9",
+      "description": "Descrição 9",
+      "inviteCode": "COD009"
+    },
+    {
+      "id": 10,
+      "name": "Grupo 10",
+      "description": "Descrição 10",
+      "inviteCode": "COD010"
+    },
+    {
+      "id": 11,
+      "name": "Grupo 11",
+      "description": "Descrição 11",
+      "inviteCode": "COD011"
+    },
+    {
+      "id": 12,
+      "name": "Grupo 12",
+      "description": "Descrição 12",
+      "inviteCode": "COD012"
+    }
+  ],
+  "groupMembers": [
+    {
+      "id": 1,
+      "userId": 1,
+      "groupId": 1,
+      "role": "OWNER"
+    },
+    {
+      "id": 2,
+      "userId": 10,
+      "groupId": 1,
+      "role": "MEMBER"
+    },
+    {
+      "id": 3,
+      "userId": 38,
+      "groupId": 1,
+      "role": "MEMBER"
+    },
+    {
+      "id": 4,
+      "userId": 6,
+      "groupId": 1,
+      "role": "MEMBER"
+    },
+    {
+      "id": 5,
+      "userId": 18,
+      "groupId": 1,
+      "role": "MEMBER"
+    },
+    {
+      "id": 6,
+      "userId": 9,
+      "groupId": 1,
+      "role": "MEMBER"
+    },
+    {
+      "id": 7,
+      "userId": 33,
+      "groupId": 1,
+      "role": "MEMBER"
+    },
+    {
+      "id": 8,
+      "userId": 2,
+      "groupId": 2,
+      "role": "OWNER"
+    },
+    {
+      "id": 9,
+      "userId": 30,
+      "groupId": 2,
+      "role": "MEMBER"
+    },
+    {
+      "id": 10,
+      "userId": 32,
+      "groupId": 2,
+      "role": "MEMBER"
+    },
+    {
+      "id": 11,
+      "userId": 26,
+      "groupId": 2,
+      "role": "MEMBER"
+    },
+    {
+      "id": 12,
+      "userId": 15,
+      "groupId": 2,
+      "role": "MEMBER"
+    },
+    {
+      "id": 13,
+      "userId": 8,
+      "groupId": 2,
+      "role": "MEMBER"
+    },
+    {
+      "id": 14,
+      "userId": 33,
+      "groupId": 2,
+      "role": "MEMBER"
+    },
+    {
+      "id": 15,
+      "userId": 3,
+      "groupId": 3,
+      "role": "OWNER"
+    },
+    {
+      "id": 16,
+      "userId": 2,
+      "groupId": 3,
+      "role": "MEMBER"
+    },
+    {
+      "id": 17,
+      "userId": 26,
+      "groupId": 3,
+      "role": "MEMBER"
+    },
+    {
+      "id": 18,
+      "userId": 29,
+      "groupId": 3,
+      "role": "MEMBER"
+    },
+    {
+      "id": 19,
+      "userId": 1,
+      "groupId": 3,
+      "role": "MEMBER"
+    },
+    {
+      "id": 20,
+      "userId": 30,
+      "groupId": 3,
+      "role": "MEMBER"
+    },
+    {
+      "id": 21,
+      "userId": 19,
+      "groupId": 3,
+      "role": "MEMBER"
+    },
+    {
+      "id": 22,
+      "userId": 4,
+      "groupId": 4,
+      "role": "OWNER"
+    },
+    {
+      "id": 23,
+      "userId": 16,
+      "groupId": 4,
+      "role": "MEMBER"
+    },
+    {
+      "id": 24,
+      "userId": 39,
+      "groupId": 4,
+      "role": "MEMBER"
+    },
+    {
+      "id": 25,
+      "userId": 8,
+      "groupId": 4,
+      "role": "MEMBER"
+    },
+    {
+      "id": 26,
+      "userId": 22,
+      "groupId": 4,
+      "role": "MEMBER"
+    },
+    {
+      "id": 27,
+      "userId": 2,
+      "groupId": 4,
+      "role": "MEMBER"
+    },
+    {
+      "id": 28,
+      "userId": 36,
+      "groupId": 4,
+      "role": "MEMBER"
+    },
+    {
+      "id": 29,
+      "userId": 5,
+      "groupId": 5,
+      "role": "OWNER"
+    },
+    {
+      "id": 30,
+      "userId": 2,
+      "groupId": 5,
+      "role": "MEMBER"
+    },
+    {
+      "id": 31,
+      "userId": 36,
+      "groupId": 5,
+      "role": "MEMBER"
+    },
+    {
+      "id": 32,
+      "userId": 1,
+      "groupId": 5,
+      "role": "MEMBER"
+    },
+    {
+      "id": 33,
+      "userId": 26,
+      "groupId": 5,
+      "role": "MEMBER"
+    },
+    {
+      "id": 34,
+      "userId": 15,
+      "groupId": 5,
+      "role": "MEMBER"
+    },
+    {
+      "id": 35,
+      "userId": 29,
+      "groupId": 5,
+      "role": "MEMBER"
+    },
+    {
+      "id": 36,
+      "userId": 6,
+      "groupId": 6,
+      "role": "OWNER"
+    },
+    {
+      "id": 37,
+      "userId": 2,
+      "groupId": 6,
+      "role": "MEMBER"
+    },
+    {
+      "id": 38,
+      "userId": 35,
+      "groupId": 6,
+      "role": "MEMBER"
+    },
+    {
+      "id": 39,
+      "userId": 16,
+      "groupId": 6,
+      "role": "MEMBER"
+    },
+    {
+      "id": 40,
+      "userId": 30,
+      "groupId": 6,
+      "role": "MEMBER"
+    },
+    {
+      "id": 41,
+      "userId": 33,
+      "groupId": 6,
+      "role": "MEMBER"
+    },
+    {
+      "id": 42,
+      "userId": 38,
+      "groupId": 6,
+      "role": "MEMBER"
+    },
+    {
+      "id": 43,
+      "userId": 7,
+      "groupId": 7,
+      "role": "OWNER"
+    },
+    {
+      "id": 44,
+      "userId": 24,
+      "groupId": 7,
+      "role": "MEMBER"
+    },
+    {
+      "id": 45,
+      "userId": 16,
+      "groupId": 7,
+      "role": "MEMBER"
+    },
+    {
+      "id": 46,
+      "userId": 39,
+      "groupId": 7,
+      "role": "MEMBER"
+    },
+    {
+      "id": 47,
+      "userId": 31,
+      "groupId": 7,
+      "role": "MEMBER"
+    },
+    {
+      "id": 48,
+      "userId": 20,
+      "groupId": 7,
+      "role": "MEMBER"
+    },
+    {
+      "id": 49,
+      "userId": 2,
+      "groupId": 7,
+      "role": "MEMBER"
+    },
+    {
+      "id": 50,
+      "userId": 8,
+      "groupId": 8,
+      "role": "OWNER"
+    },
+    {
+      "id": 51,
+      "userId": 28,
+      "groupId": 8,
+      "role": "MEMBER"
+    },
+    {
+      "id": 52,
+      "userId": 37,
+      "groupId": 8,
+      "role": "MEMBER"
+    },
+    {
+      "id": 53,
+      "userId": 7,
+      "groupId": 8,
+      "role": "MEMBER"
+    },
+    {
+      "id": 54,
+      "userId": 13,
+      "groupId": 8,
+      "role": "MEMBER"
+    },
+    {
+      "id": 55,
+      "userId": 20,
+      "groupId": 8,
+      "role": "MEMBER"
+    },
+    {
+      "id": 56,
+      "userId": 9,
+      "groupId": 8,
+      "role": "MEMBER"
+    },
+    {
+      "id": 57,
+      "userId": 9,
+      "groupId": 9,
+      "role": "OWNER"
+    },
+    {
+      "id": 58,
+      "userId": 23,
+      "groupId": 9,
+      "role": "MEMBER"
+    },
+    {
+      "id": 59,
+      "userId": 34,
+      "groupId": 9,
+      "role": "MEMBER"
+    },
+    {
+      "id": 60,
+      "userId": 29,
+      "groupId": 9,
+      "role": "MEMBER"
+    },
+    {
+      "id": 61,
+      "userId": 39,
+      "groupId": 9,
+      "role": "MEMBER"
+    },
+    {
+      "id": 62,
+      "userId": 14,
+      "groupId": 9,
+      "role": "MEMBER"
+    },
+    {
+      "id": 63,
+      "userId": 21,
+      "groupId": 9,
+      "role": "MEMBER"
+    },
+    {
+      "id": 64,
+      "userId": 10,
+      "groupId": 10,
+      "role": "OWNER"
+    },
+    {
+      "id": 65,
+      "userId": 20,
+      "groupId": 10,
+      "role": "MEMBER"
+    },
+    {
+      "id": 66,
+      "userId": 39,
+      "groupId": 10,
+      "role": "MEMBER"
+    },
+    {
+      "id": 67,
+      "userId": 33,
+      "groupId": 10,
+      "role": "MEMBER"
+    },
+    {
+      "id": 68,
+      "userId": 34,
+      "groupId": 10,
+      "role": "MEMBER"
+    },
+    {
+      "id": 69,
+      "userId": 27,
+      "groupId": 10,
+      "role": "MEMBER"
+    },
+    {
+      "id": 70,
+      "userId": 3,
+      "groupId": 10,
+      "role": "MEMBER"
+    },
+    {
+      "id": 71,
+      "userId": 11,
+      "groupId": 11,
+      "role": "OWNER"
+    },
+    {
+      "id": 72,
+      "userId": 32,
+      "groupId": 11,
+      "role": "MEMBER"
+    },
+    {
+      "id": 73,
+      "userId": 17,
+      "groupId": 11,
+      "role": "MEMBER"
+    },
+    {
+      "id": 74,
+      "userId": 27,
+      "groupId": 11,
+      "role": "MEMBER"
+    },
+    {
+      "id": 75,
+      "userId": 28,
+      "groupId": 11,
+      "role": "MEMBER"
+    },
+    {
+      "id": 76,
+      "userId": 13,
+      "groupId": 11,
+      "role": "MEMBER"
+    },
+    {
+      "id": 77,
+      "userId": 25,
+      "groupId": 11,
+      "role": "MEMBER"
+    },
+    {
+      "id": 78,
+      "userId": 12,
+      "groupId": 12,
+      "role": "OWNER"
+    },
+    {
+      "id": 79,
+      "userId": 37,
+      "groupId": 12,
+      "role": "MEMBER"
+    },
+    {
+      "id": 80,
+      "userId": 25,
+      "groupId": 12,
+      "role": "MEMBER"
+    },
+    {
+      "id": 81,
+      "userId": 6,
+      "groupId": 12,
+      "role": "MEMBER"
+    },
+    {
+      "id": 82,
+      "userId": 30,
+      "groupId": 12,
+      "role": "MEMBER"
+    },
+    {
+      "id": 83,
+      "userId": 34,
+      "groupId": 12,
+      "role": "MEMBER"
+    },
+    {
+      "id": 84,
+      "userId": 7,
+      "groupId": 12,
+      "role": "MEMBER"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Tarefa 1",
+      "description": "Descrição",
+      "dueDate": "2026-06-21",
+      "reminderDate": "2026-06-16",
+      "notificationMode": "DAILY",
+      "groupId": 1,
+      "createdBy": 33
+    },
+    {
+      "id": 2,
+      "title": "Tarefa 2",
+      "description": "Descrição",
+      "dueDate": "2026-08-30",
+      "reminderDate": "2026-08-23",
+      "notificationMode": "DAILY",
+      "groupId": 1,
+      "createdBy": 18
+    },
+    {
+      "id": 3,
+      "title": "Tarefa 3",
+      "description": "Descrição",
+      "dueDate": "2026-06-26",
+      "reminderDate": "2026-06-21",
+      "notificationMode": "SINGLE",
+      "groupId": 1,
+      "createdBy": 33
+    },
+    {
+      "id": 4,
+      "title": "Tarefa 4",
+      "description": "Descrição",
+      "dueDate": "2026-07-05",
+      "reminderDate": "2026-06-29",
+      "notificationMode": "SINGLE",
+      "groupId": 1,
+      "createdBy": 18
+    },
+    {
+      "id": 5,
+      "title": "Tarefa 5",
+      "description": "Descrição",
+      "dueDate": "2026-06-27",
+      "reminderDate": "2026-06-23",
+      "notificationMode": "DAILY",
+      "groupId": 1,
+      "createdBy": 1
+    },
+    {
+      "id": 6,
+      "title": "Tarefa 6",
+      "description": "Descrição",
+      "dueDate": "2026-07-23",
+      "reminderDate": "2026-07-19",
+      "notificationMode": "DAILY",
+      "groupId": 1,
+      "createdBy": 33
+    },
+    {
+      "id": 7,
+      "title": "Tarefa 7",
+      "description": "Descrição",
+      "dueDate": "2026-08-18",
+      "reminderDate": "2026-08-15",
+      "notificationMode": "SINGLE",
+      "groupId": 1,
+      "createdBy": 6
+    },
+    {
+      "id": 8,
+      "title": "Tarefa 8",
+      "description": "Descrição",
+      "dueDate": "2026-06-12",
+      "reminderDate": "2026-06-05",
+      "notificationMode": "DAILY",
+      "groupId": 1,
+      "createdBy": 18
+    },
+    {
+      "id": 9,
+      "title": "Tarefa 9",
+      "description": "Descrição",
+      "dueDate": "2026-06-02",
+      "reminderDate": "2026-05-26",
+      "notificationMode": "DAILY",
+      "groupId": 1,
+      "createdBy": 33
+    },
+    {
+      "id": 10,
+      "title": "Tarefa 10",
+      "description": "Descrição",
+      "dueDate": "2026-07-08",
+      "reminderDate": "2026-07-07",
+      "notificationMode": "SINGLE",
+      "groupId": 1,
+      "createdBy": 10
+    },
+    {
+      "id": 11,
+      "title": "Tarefa 11",
+      "description": "Descrição",
+      "dueDate": "2026-07-08",
+      "reminderDate": "2026-07-04",
+      "notificationMode": "DAILY",
+      "groupId": 1,
+      "createdBy": 9
+    },
+    {
+      "id": 12,
+      "title": "Tarefa 12",
+      "description": "Descrição",
+      "dueDate": "2026-07-14",
+      "reminderDate": "2026-07-10",
+      "notificationMode": "SINGLE",
+      "groupId": 1,
+      "createdBy": 33
+    },
+    {
+      "id": 13,
+      "title": "Tarefa 13",
+      "description": "Descrição",
+      "dueDate": "2026-08-17",
+      "reminderDate": "2026-08-13",
+      "notificationMode": "SINGLE",
+      "groupId": 1,
+      "createdBy": 33
+    },
+    {
+      "id": 14,
+      "title": "Tarefa 14",
+      "description": "Descrição",
+      "dueDate": "2026-06-21",
+      "reminderDate": "2026-06-17",
+      "notificationMode": "DAILY",
+      "groupId": 1,
+      "createdBy": 9
+    },
+    {
+      "id": 15,
+      "title": "Tarefa 15",
+      "description": "Descrição",
+      "dueDate": "2026-08-23",
+      "reminderDate": "2026-08-22",
+      "notificationMode": "DAILY",
+      "groupId": 1,
+      "createdBy": 6
+    },
+    {
+      "id": 16,
+      "title": "Tarefa 16",
+      "description": "Descrição",
+      "dueDate": "2026-06-17",
+      "reminderDate": "2026-06-15",
+      "notificationMode": "DAILY",
+      "groupId": 2,
+      "createdBy": 2
+    },
+    {
+      "id": 17,
+      "title": "Tarefa 17",
+      "description": "Descrição",
+      "dueDate": "2026-07-24",
+      "reminderDate": "2026-07-19",
+      "notificationMode": "SINGLE",
+      "groupId": 2,
+      "createdBy": 32
+    },
+    {
+      "id": 18,
+      "title": "Tarefa 18",
+      "description": "Descrição",
+      "dueDate": "2026-07-29",
+      "reminderDate": "2026-07-27",
+      "notificationMode": "SINGLE",
+      "groupId": 2,
+      "createdBy": 33
+    },
+    {
+      "id": 19,
+      "title": "Tarefa 19",
+      "description": "Descrição",
+      "dueDate": "2026-08-26",
+      "reminderDate": "2026-08-22",
+      "notificationMode": "SINGLE",
+      "groupId": 2,
+      "createdBy": 15
+    },
+    {
+      "id": 20,
+      "title": "Tarefa 20",
+      "description": "Descrição",
+      "dueDate": "2026-06-03",
+      "reminderDate": "2026-05-31",
+      "notificationMode": "DAILY",
+      "groupId": 2,
+      "createdBy": 15
+    },
+    {
+      "id": 21,
+      "title": "Tarefa 21",
+      "description": "Descrição",
+      "dueDate": "2026-06-18",
+      "reminderDate": "2026-06-15",
+      "notificationMode": "SINGLE",
+      "groupId": 2,
+      "createdBy": 26
+    },
+    {
+      "id": 22,
+      "title": "Tarefa 22",
+      "description": "Descrição",
+      "dueDate": "2026-08-27",
+      "reminderDate": "2026-08-22",
+      "notificationMode": "SINGLE",
+      "groupId": 2,
+      "createdBy": 26
+    },
+    {
+      "id": 23,
+      "title": "Tarefa 23",
+      "description": "Descrição",
+      "dueDate": "2026-06-22",
+      "reminderDate": "2026-06-17",
+      "notificationMode": "DAILY",
+      "groupId": 2,
+      "createdBy": 30
+    },
+    {
+      "id": 24,
+      "title": "Tarefa 24",
+      "description": "Descrição",
+      "dueDate": "2026-07-14",
+      "reminderDate": "2026-07-11",
+      "notificationMode": "DAILY",
+      "groupId": 2,
+      "createdBy": 2
+    },
+    {
+      "id": 25,
+      "title": "Tarefa 25",
+      "description": "Descrição",
+      "dueDate": "2026-06-14",
+      "reminderDate": "2026-06-11",
+      "notificationMode": "DAILY",
+      "groupId": 2,
+      "createdBy": 2
+    },
+    {
+      "id": 26,
+      "title": "Tarefa 26",
+      "description": "Descrição",
+      "dueDate": "2026-08-18",
+      "reminderDate": "2026-08-13",
+      "notificationMode": "DAILY",
+      "groupId": 2,
+      "createdBy": 33
+    },
+    {
+      "id": 27,
+      "title": "Tarefa 27",
+      "description": "Descrição",
+      "dueDate": "2026-07-05",
+      "reminderDate": "2026-07-02",
+      "notificationMode": "SINGLE",
+      "groupId": 2,
+      "createdBy": 32
+    },
+    {
+      "id": 28,
+      "title": "Tarefa 28",
+      "description": "Descrição",
+      "dueDate": "2026-08-18",
+      "reminderDate": "2026-08-12",
+      "notificationMode": "SINGLE",
+      "groupId": 2,
+      "createdBy": 2
+    },
+    {
+      "id": 29,
+      "title": "Tarefa 29",
+      "description": "Descrição",
+      "dueDate": "2026-07-24",
+      "reminderDate": "2026-07-22",
+      "notificationMode": "DAILY",
+      "groupId": 2,
+      "createdBy": 2
+    },
+    {
+      "id": 30,
+      "title": "Tarefa 30",
+      "description": "Descrição",
+      "dueDate": "2026-07-26",
+      "reminderDate": "2026-07-22",
+      "notificationMode": "DAILY",
+      "groupId": 2,
+      "createdBy": 33
+    },
+    {
+      "id": 31,
+      "title": "Tarefa 31",
+      "description": "Descrição",
+      "dueDate": "2026-08-23",
+      "reminderDate": "2026-08-20",
+      "notificationMode": "SINGLE",
+      "groupId": 3,
+      "createdBy": 3
+    },
+    {
+      "id": 32,
+      "title": "Tarefa 32",
+      "description": "Descrição",
+      "dueDate": "2026-07-11",
+      "reminderDate": "2026-07-07",
+      "notificationMode": "SINGLE",
+      "groupId": 3,
+      "createdBy": 3
+    },
+    {
+      "id": 33,
+      "title": "Tarefa 33",
+      "description": "Descrição",
+      "dueDate": "2026-08-19",
+      "reminderDate": "2026-08-12",
+      "notificationMode": "DAILY",
+      "groupId": 3,
+      "createdBy": 1
+    },
+    {
+      "id": 34,
+      "title": "Tarefa 34",
+      "description": "Descrição",
+      "dueDate": "2026-07-10",
+      "reminderDate": "2026-07-08",
+      "notificationMode": "DAILY",
+      "groupId": 3,
+      "createdBy": 2
+    },
+    {
+      "id": 35,
+      "title": "Tarefa 35",
+      "description": "Descrição",
+      "dueDate": "2026-08-13",
+      "reminderDate": "2026-08-07",
+      "notificationMode": "SINGLE",
+      "groupId": 3,
+      "createdBy": 26
+    },
+    {
+      "id": 36,
+      "title": "Tarefa 36",
+      "description": "Descrição",
+      "dueDate": "2026-08-14",
+      "reminderDate": "2026-08-11",
+      "notificationMode": "DAILY",
+      "groupId": 3,
+      "createdBy": 2
+    },
+    {
+      "id": 37,
+      "title": "Tarefa 37",
+      "description": "Descrição",
+      "dueDate": "2026-07-02",
+      "reminderDate": "2026-06-30",
+      "notificationMode": "SINGLE",
+      "groupId": 3,
+      "createdBy": 3
+    },
+    {
+      "id": 38,
+      "title": "Tarefa 38",
+      "description": "Descrição",
+      "dueDate": "2026-06-10",
+      "reminderDate": "2026-06-09",
+      "notificationMode": "SINGLE",
+      "groupId": 3,
+      "createdBy": 30
+    },
+    {
+      "id": 39,
+      "title": "Tarefa 39",
+      "description": "Descrição",
+      "dueDate": "2026-08-04",
+      "reminderDate": "2026-07-28",
+      "notificationMode": "DAILY",
+      "groupId": 3,
+      "createdBy": 19
+    },
+    {
+      "id": 40,
+      "title": "Tarefa 40",
+      "description": "Descrição",
+      "dueDate": "2026-07-11",
+      "reminderDate": "2026-07-08",
+      "notificationMode": "DAILY",
+      "groupId": 3,
+      "createdBy": 3
+    },
+    {
+      "id": 41,
+      "title": "Tarefa 41",
+      "description": "Descrição",
+      "dueDate": "2026-07-11",
+      "reminderDate": "2026-07-04",
+      "notificationMode": "SINGLE",
+      "groupId": 3,
+      "createdBy": 1
+    },
+    {
+      "id": 42,
+      "title": "Tarefa 42",
+      "description": "Descrição",
+      "dueDate": "2026-08-25",
+      "reminderDate": "2026-08-23",
+      "notificationMode": "SINGLE",
+      "groupId": 3,
+      "createdBy": 26
+    },
+    {
+      "id": 43,
+      "title": "Tarefa 43",
+      "description": "Descrição",
+      "dueDate": "2026-07-27",
+      "reminderDate": "2026-07-20",
+      "notificationMode": "DAILY",
+      "groupId": 3,
+      "createdBy": 1
+    },
+    {
+      "id": 44,
+      "title": "Tarefa 44",
+      "description": "Descrição",
+      "dueDate": "2026-06-04",
+      "reminderDate": "2026-05-28",
+      "notificationMode": "DAILY",
+      "groupId": 3,
+      "createdBy": 30
+    },
+    {
+      "id": 45,
+      "title": "Tarefa 45",
+      "description": "Descrição",
+      "dueDate": "2026-06-18",
+      "reminderDate": "2026-06-13",
+      "notificationMode": "SINGLE",
+      "groupId": 3,
+      "createdBy": 2
+    },
+    {
+      "id": 46,
+      "title": "Tarefa 46",
+      "description": "Descrição",
+      "dueDate": "2026-08-18",
+      "reminderDate": "2026-08-17",
+      "notificationMode": "DAILY",
+      "groupId": 4,
+      "createdBy": 16
+    },
+    {
+      "id": 47,
+      "title": "Tarefa 47",
+      "description": "Descrição",
+      "dueDate": "2026-07-27",
+      "reminderDate": "2026-07-21",
+      "notificationMode": "SINGLE",
+      "groupId": 4,
+      "createdBy": 2
+    },
+    {
+      "id": 48,
+      "title": "Tarefa 48",
+      "description": "Descrição",
+      "dueDate": "2026-07-23",
+      "reminderDate": "2026-07-20",
+      "notificationMode": "DAILY",
+      "groupId": 4,
+      "createdBy": 22
+    },
+    {
+      "id": 49,
+      "title": "Tarefa 49",
+      "description": "Descrição",
+      "dueDate": "2026-07-18",
+      "reminderDate": "2026-07-16",
+      "notificationMode": "SINGLE",
+      "groupId": 4,
+      "createdBy": 22
+    },
+    {
+      "id": 50,
+      "title": "Tarefa 50",
+      "description": "Descrição",
+      "dueDate": "2026-08-29",
+      "reminderDate": "2026-08-23",
+      "notificationMode": "DAILY",
+      "groupId": 4,
+      "createdBy": 2
+    },
+    {
+      "id": 51,
+      "title": "Tarefa 51",
+      "description": "Descrição",
+      "dueDate": "2026-07-19",
+      "reminderDate": "2026-07-17",
+      "notificationMode": "DAILY",
+      "groupId": 4,
+      "createdBy": 16
+    },
+    {
+      "id": 52,
+      "title": "Tarefa 52",
+      "description": "Descrição",
+      "dueDate": "2026-08-27",
+      "reminderDate": "2026-08-23",
+      "notificationMode": "DAILY",
+      "groupId": 4,
+      "createdBy": 2
+    },
+    {
+      "id": 53,
+      "title": "Tarefa 53",
+      "description": "Descrição",
+      "dueDate": "2026-08-07",
+      "reminderDate": "2026-08-06",
+      "notificationMode": "DAILY",
+      "groupId": 4,
+      "createdBy": 36
+    },
+    {
+      "id": 54,
+      "title": "Tarefa 54",
+      "description": "Descrição",
+      "dueDate": "2026-08-18",
+      "reminderDate": "2026-08-11",
+      "notificationMode": "SINGLE",
+      "groupId": 4,
+      "createdBy": 2
+    },
+    {
+      "id": 55,
+      "title": "Tarefa 55",
+      "description": "Descrição",
+      "dueDate": "2026-07-12",
+      "reminderDate": "2026-07-08",
+      "notificationMode": "DAILY",
+      "groupId": 4,
+      "createdBy": 16
+    },
+    {
+      "id": 56,
+      "title": "Tarefa 56",
+      "description": "Descrição",
+      "dueDate": "2026-06-16",
+      "reminderDate": "2026-06-10",
+      "notificationMode": "DAILY",
+      "groupId": 4,
+      "createdBy": 39
+    },
+    {
+      "id": 57,
+      "title": "Tarefa 57",
+      "description": "Descrição",
+      "dueDate": "2026-07-27",
+      "reminderDate": "2026-07-22",
+      "notificationMode": "SINGLE",
+      "groupId": 4,
+      "createdBy": 4
+    },
+    {
+      "id": 58,
+      "title": "Tarefa 58",
+      "description": "Descrição",
+      "dueDate": "2026-07-07",
+      "reminderDate": "2026-07-05",
+      "notificationMode": "SINGLE",
+      "groupId": 4,
+      "createdBy": 22
+    },
+    {
+      "id": 59,
+      "title": "Tarefa 59",
+      "description": "Descrição",
+      "dueDate": "2026-06-22",
+      "reminderDate": "2026-06-17",
+      "notificationMode": "DAILY",
+      "groupId": 4,
+      "createdBy": 39
+    },
+    {
+      "id": 60,
+      "title": "Tarefa 60",
+      "description": "Descrição",
+      "dueDate": "2026-07-07",
+      "reminderDate": "2026-06-30",
+      "notificationMode": "SINGLE",
+      "groupId": 4,
+      "createdBy": 4
+    },
+    {
+      "id": 61,
+      "title": "Tarefa 61",
+      "description": "Descrição",
+      "dueDate": "2026-08-23",
+      "reminderDate": "2026-08-21",
+      "notificationMode": "DAILY",
+      "groupId": 5,
+      "createdBy": 5
+    },
+    {
+      "id": 62,
+      "title": "Tarefa 62",
+      "description": "Descrição",
+      "dueDate": "2026-08-07",
+      "reminderDate": "2026-08-04",
+      "notificationMode": "SINGLE",
+      "groupId": 5,
+      "createdBy": 5
+    },
+    {
+      "id": 63,
+      "title": "Tarefa 63",
+      "description": "Descrição",
+      "dueDate": "2026-07-22",
+      "reminderDate": "2026-07-19",
+      "notificationMode": "DAILY",
+      "groupId": 5,
+      "createdBy": 29
+    },
+    {
+      "id": 64,
+      "title": "Tarefa 64",
+      "description": "Descrição",
+      "dueDate": "2026-06-01",
+      "reminderDate": "2026-05-29",
+      "notificationMode": "SINGLE",
+      "groupId": 5,
+      "createdBy": 15
+    },
+    {
+      "id": 65,
+      "title": "Tarefa 65",
+      "description": "Descrição",
+      "dueDate": "2026-07-10",
+      "reminderDate": "2026-07-04",
+      "notificationMode": "DAILY",
+      "groupId": 5,
+      "createdBy": 2
+    },
+    {
+      "id": 66,
+      "title": "Tarefa 66",
+      "description": "Descrição",
+      "dueDate": "2026-06-01",
+      "reminderDate": "2026-05-26",
+      "notificationMode": "DAILY",
+      "groupId": 5,
+      "createdBy": 1
+    },
+    {
+      "id": 67,
+      "title": "Tarefa 67",
+      "description": "Descrição",
+      "dueDate": "2026-06-09",
+      "reminderDate": "2026-06-05",
+      "notificationMode": "SINGLE",
+      "groupId": 5,
+      "createdBy": 15
+    },
+    {
+      "id": 68,
+      "title": "Tarefa 68",
+      "description": "Descrição",
+      "dueDate": "2026-08-20",
+      "reminderDate": "2026-08-18",
+      "notificationMode": "DAILY",
+      "groupId": 5,
+      "createdBy": 15
+    },
+    {
+      "id": 69,
+      "title": "Tarefa 69",
+      "description": "Descrição",
+      "dueDate": "2026-07-15",
+      "reminderDate": "2026-07-12",
+      "notificationMode": "DAILY",
+      "groupId": 5,
+      "createdBy": 29
+    },
+    {
+      "id": 70,
+      "title": "Tarefa 70",
+      "description": "Descrição",
+      "dueDate": "2026-07-04",
+      "reminderDate": "2026-06-30",
+      "notificationMode": "DAILY",
+      "groupId": 5,
+      "createdBy": 2
+    },
+    {
+      "id": 71,
+      "title": "Tarefa 71",
+      "description": "Descrição",
+      "dueDate": "2026-08-15",
+      "reminderDate": "2026-08-11",
+      "notificationMode": "DAILY",
+      "groupId": 5,
+      "createdBy": 5
+    },
+    {
+      "id": 72,
+      "title": "Tarefa 72",
+      "description": "Descrição",
+      "dueDate": "2026-08-30",
+      "reminderDate": "2026-08-28",
+      "notificationMode": "SINGLE",
+      "groupId": 5,
+      "createdBy": 15
+    },
+    {
+      "id": 73,
+      "title": "Tarefa 73",
+      "description": "Descrição",
+      "dueDate": "2026-08-07",
+      "reminderDate": "2026-08-05",
+      "notificationMode": "DAILY",
+      "groupId": 5,
+      "createdBy": 2
+    },
+    {
+      "id": 74,
+      "title": "Tarefa 74",
+      "description": "Descrição",
+      "dueDate": "2026-07-18",
+      "reminderDate": "2026-07-14",
+      "notificationMode": "SINGLE",
+      "groupId": 5,
+      "createdBy": 26
+    },
+    {
+      "id": 75,
+      "title": "Tarefa 75",
+      "description": "Descrição",
+      "dueDate": "2026-06-30",
+      "reminderDate": "2026-06-26",
+      "notificationMode": "DAILY",
+      "groupId": 5,
+      "createdBy": 26
+    },
+    {
+      "id": 76,
+      "title": "Tarefa 76",
+      "description": "Descrição",
+      "dueDate": "2026-06-29",
+      "reminderDate": "2026-06-26",
+      "notificationMode": "SINGLE",
+      "groupId": 6,
+      "createdBy": 30
+    },
+    {
+      "id": 77,
+      "title": "Tarefa 77",
+      "description": "Descrição",
+      "dueDate": "2026-07-26",
+      "reminderDate": "2026-07-19",
+      "notificationMode": "DAILY",
+      "groupId": 6,
+      "createdBy": 2
+    },
+    {
+      "id": 78,
+      "title": "Tarefa 78",
+      "description": "Descrição",
+      "dueDate": "2026-06-19",
+      "reminderDate": "2026-06-14",
+      "notificationMode": "DAILY",
+      "groupId": 6,
+      "createdBy": 35
+    },
+    {
+      "id": 79,
+      "title": "Tarefa 79",
+      "description": "Descrição",
+      "dueDate": "2026-07-17",
+      "reminderDate": "2026-07-14",
+      "notificationMode": "DAILY",
+      "groupId": 6,
+      "createdBy": 38
+    },
+    {
+      "id": 80,
+      "title": "Tarefa 80",
+      "description": "Descrição",
+      "dueDate": "2026-06-09",
+      "reminderDate": "2026-06-08",
+      "notificationMode": "DAILY",
+      "groupId": 6,
+      "createdBy": 2
+    },
+    {
+      "id": 81,
+      "title": "Tarefa 81",
+      "description": "Descrição",
+      "dueDate": "2026-08-16",
+      "reminderDate": "2026-08-15",
+      "notificationMode": "SINGLE",
+      "groupId": 6,
+      "createdBy": 38
+    },
+    {
+      "id": 82,
+      "title": "Tarefa 82",
+      "description": "Descrição",
+      "dueDate": "2026-08-18",
+      "reminderDate": "2026-08-14",
+      "notificationMode": "DAILY",
+      "groupId": 6,
+      "createdBy": 35
+    },
+    {
+      "id": 83,
+      "title": "Tarefa 83",
+      "description": "Descrição",
+      "dueDate": "2026-06-30",
+      "reminderDate": "2026-06-26",
+      "notificationMode": "DAILY",
+      "groupId": 6,
+      "createdBy": 16
+    },
+    {
+      "id": 84,
+      "title": "Tarefa 84",
+      "description": "Descrição",
+      "dueDate": "2026-08-10",
+      "reminderDate": "2026-08-05",
+      "notificationMode": "SINGLE",
+      "groupId": 6,
+      "createdBy": 16
+    },
+    {
+      "id": 85,
+      "title": "Tarefa 85",
+      "description": "Descrição",
+      "dueDate": "2026-06-15",
+      "reminderDate": "2026-06-13",
+      "notificationMode": "SINGLE",
+      "groupId": 6,
+      "createdBy": 6
+    },
+    {
+      "id": 86,
+      "title": "Tarefa 86",
+      "description": "Descrição",
+      "dueDate": "2026-07-07",
+      "reminderDate": "2026-07-05",
+      "notificationMode": "SINGLE",
+      "groupId": 6,
+      "createdBy": 16
+    },
+    {
+      "id": 87,
+      "title": "Tarefa 87",
+      "description": "Descrição",
+      "dueDate": "2026-06-19",
+      "reminderDate": "2026-06-13",
+      "notificationMode": "SINGLE",
+      "groupId": 6,
+      "createdBy": 30
+    },
+    {
+      "id": 88,
+      "title": "Tarefa 88",
+      "description": "Descrição",
+      "dueDate": "2026-08-23",
+      "reminderDate": "2026-08-16",
+      "notificationMode": "SINGLE",
+      "groupId": 6,
+      "createdBy": 35
+    },
+    {
+      "id": 89,
+      "title": "Tarefa 89",
+      "description": "Descrição",
+      "dueDate": "2026-07-06",
+      "reminderDate": "2026-06-29",
+      "notificationMode": "DAILY",
+      "groupId": 6,
+      "createdBy": 6
+    },
+    {
+      "id": 90,
+      "title": "Tarefa 90",
+      "description": "Descrição",
+      "dueDate": "2026-07-06",
+      "reminderDate": "2026-06-30",
+      "notificationMode": "SINGLE",
+      "groupId": 6,
+      "createdBy": 38
+    },
+    {
+      "id": 91,
+      "title": "Tarefa 91",
+      "description": "Descrição",
+      "dueDate": "2026-07-04",
+      "reminderDate": "2026-06-28",
+      "notificationMode": "SINGLE",
+      "groupId": 7,
+      "createdBy": 20
+    },
+    {
+      "id": 92,
+      "title": "Tarefa 92",
+      "description": "Descrição",
+      "dueDate": "2026-07-25",
+      "reminderDate": "2026-07-20",
+      "notificationMode": "SINGLE",
+      "groupId": 7,
+      "createdBy": 20
+    },
+    {
+      "id": 93,
+      "title": "Tarefa 93",
+      "description": "Descrição",
+      "dueDate": "2026-08-08",
+      "reminderDate": "2026-08-04",
+      "notificationMode": "SINGLE",
+      "groupId": 7,
+      "createdBy": 20
+    },
+    {
+      "id": 94,
+      "title": "Tarefa 94",
+      "description": "Descrição",
+      "dueDate": "2026-06-23",
+      "reminderDate": "2026-06-22",
+      "notificationMode": "SINGLE",
+      "groupId": 7,
+      "createdBy": 24
+    },
+    {
+      "id": 95,
+      "title": "Tarefa 95",
+      "description": "Descrição",
+      "dueDate": "2026-08-05",
+      "reminderDate": "2026-08-01",
+      "notificationMode": "DAILY",
+      "groupId": 7,
+      "createdBy": 31
+    },
+    {
+      "id": 96,
+      "title": "Tarefa 96",
+      "description": "Descrição",
+      "dueDate": "2026-07-27",
+      "reminderDate": "2026-07-21",
+      "notificationMode": "DAILY",
+      "groupId": 7,
+      "createdBy": 24
+    },
+    {
+      "id": 97,
+      "title": "Tarefa 97",
+      "description": "Descrição",
+      "dueDate": "2026-07-05",
+      "reminderDate": "2026-07-04",
+      "notificationMode": "DAILY",
+      "groupId": 7,
+      "createdBy": 16
+    },
+    {
+      "id": 98,
+      "title": "Tarefa 98",
+      "description": "Descrição",
+      "dueDate": "2026-07-04",
+      "reminderDate": "2026-07-01",
+      "notificationMode": "SINGLE",
+      "groupId": 7,
+      "createdBy": 20
+    },
+    {
+      "id": 99,
+      "title": "Tarefa 99",
+      "description": "Descrição",
+      "dueDate": "2026-07-25",
+      "reminderDate": "2026-07-18",
+      "notificationMode": "SINGLE",
+      "groupId": 7,
+      "createdBy": 24
+    },
+    {
+      "id": 100,
+      "title": "Tarefa 100",
+      "description": "Descrição",
+      "dueDate": "2026-06-14",
+      "reminderDate": "2026-06-12",
+      "notificationMode": "DAILY",
+      "groupId": 7,
+      "createdBy": 20
+    },
+    {
+      "id": 101,
+      "title": "Tarefa 101",
+      "description": "Descrição",
+      "dueDate": "2026-06-04",
+      "reminderDate": "2026-05-28",
+      "notificationMode": "SINGLE",
+      "groupId": 7,
+      "createdBy": 16
+    },
+    {
+      "id": 102,
+      "title": "Tarefa 102",
+      "description": "Descrição",
+      "dueDate": "2026-07-23",
+      "reminderDate": "2026-07-20",
+      "notificationMode": "SINGLE",
+      "groupId": 7,
+      "createdBy": 24
+    },
+    {
+      "id": 103,
+      "title": "Tarefa 103",
+      "description": "Descrição",
+      "dueDate": "2026-07-11",
+      "reminderDate": "2026-07-08",
+      "notificationMode": "DAILY",
+      "groupId": 7,
+      "createdBy": 16
+    },
+    {
+      "id": 104,
+      "title": "Tarefa 104",
+      "description": "Descrição",
+      "dueDate": "2026-06-16",
+      "reminderDate": "2026-06-14",
+      "notificationMode": "DAILY",
+      "groupId": 7,
+      "createdBy": 16
+    },
+    {
+      "id": 105,
+      "title": "Tarefa 105",
+      "description": "Descrição",
+      "dueDate": "2026-08-01",
+      "reminderDate": "2026-07-28",
+      "notificationMode": "DAILY",
+      "groupId": 7,
+      "createdBy": 16
+    },
+    {
+      "id": 106,
+      "title": "Tarefa 106",
+      "description": "Descrição",
+      "dueDate": "2026-08-07",
+      "reminderDate": "2026-08-03",
+      "notificationMode": "DAILY",
+      "groupId": 8,
+      "createdBy": 13
+    },
+    {
+      "id": 107,
+      "title": "Tarefa 107",
+      "description": "Descrição",
+      "dueDate": "2026-08-22",
+      "reminderDate": "2026-08-19",
+      "notificationMode": "DAILY",
+      "groupId": 8,
+      "createdBy": 7
+    },
+    {
+      "id": 108,
+      "title": "Tarefa 108",
+      "description": "Descrição",
+      "dueDate": "2026-06-04",
+      "reminderDate": "2026-06-02",
+      "notificationMode": "SINGLE",
+      "groupId": 8,
+      "createdBy": 37
+    },
+    {
+      "id": 109,
+      "title": "Tarefa 109",
+      "description": "Descrição",
+      "dueDate": "2026-08-19",
+      "reminderDate": "2026-08-18",
+      "notificationMode": "SINGLE",
+      "groupId": 8,
+      "createdBy": 9
+    },
+    {
+      "id": 110,
+      "title": "Tarefa 110",
+      "description": "Descrição",
+      "dueDate": "2026-07-04",
+      "reminderDate": "2026-07-03",
+      "notificationMode": "SINGLE",
+      "groupId": 8,
+      "createdBy": 20
+    },
+    {
+      "id": 111,
+      "title": "Tarefa 111",
+      "description": "Descrição",
+      "dueDate": "2026-07-26",
+      "reminderDate": "2026-07-25",
+      "notificationMode": "DAILY",
+      "groupId": 8,
+      "createdBy": 13
+    },
+    {
+      "id": 112,
+      "title": "Tarefa 112",
+      "description": "Descrição",
+      "dueDate": "2026-08-03",
+      "reminderDate": "2026-07-27",
+      "notificationMode": "DAILY",
+      "groupId": 8,
+      "createdBy": 28
+    },
+    {
+      "id": 113,
+      "title": "Tarefa 113",
+      "description": "Descrição",
+      "dueDate": "2026-06-10",
+      "reminderDate": "2026-06-03",
+      "notificationMode": "DAILY",
+      "groupId": 8,
+      "createdBy": 9
+    },
+    {
+      "id": 114,
+      "title": "Tarefa 114",
+      "description": "Descrição",
+      "dueDate": "2026-08-05",
+      "reminderDate": "2026-08-01",
+      "notificationMode": "DAILY",
+      "groupId": 8,
+      "createdBy": 8
+    },
+    {
+      "id": 115,
+      "title": "Tarefa 115",
+      "description": "Descrição",
+      "dueDate": "2026-07-16",
+      "reminderDate": "2026-07-09",
+      "notificationMode": "SINGLE",
+      "groupId": 8,
+      "createdBy": 7
+    },
+    {
+      "id": 116,
+      "title": "Tarefa 116",
+      "description": "Descrição",
+      "dueDate": "2026-08-05",
+      "reminderDate": "2026-07-30",
+      "notificationMode": "DAILY",
+      "groupId": 8,
+      "createdBy": 37
+    },
+    {
+      "id": 117,
+      "title": "Tarefa 117",
+      "description": "Descrição",
+      "dueDate": "2026-08-20",
+      "reminderDate": "2026-08-15",
+      "notificationMode": "DAILY",
+      "groupId": 8,
+      "createdBy": 37
+    },
+    {
+      "id": 118,
+      "title": "Tarefa 118",
+      "description": "Descrição",
+      "dueDate": "2026-08-10",
+      "reminderDate": "2026-08-03",
+      "notificationMode": "DAILY",
+      "groupId": 8,
+      "createdBy": 28
+    },
+    {
+      "id": 119,
+      "title": "Tarefa 119",
+      "description": "Descrição",
+      "dueDate": "2026-06-05",
+      "reminderDate": "2026-06-02",
+      "notificationMode": "DAILY",
+      "groupId": 8,
+      "createdBy": 7
+    },
+    {
+      "id": 120,
+      "title": "Tarefa 120",
+      "description": "Descrição",
+      "dueDate": "2026-07-20",
+      "reminderDate": "2026-07-17",
+      "notificationMode": "DAILY",
+      "groupId": 8,
+      "createdBy": 7
+    },
+    {
+      "id": 121,
+      "title": "Tarefa 121",
+      "description": "Descrição",
+      "dueDate": "2026-06-15",
+      "reminderDate": "2026-06-11",
+      "notificationMode": "SINGLE",
+      "groupId": 9,
+      "createdBy": 34
+    },
+    {
+      "id": 122,
+      "title": "Tarefa 122",
+      "description": "Descrição",
+      "dueDate": "2026-06-17",
+      "reminderDate": "2026-06-12",
+      "notificationMode": "DAILY",
+      "groupId": 9,
+      "createdBy": 21
+    },
+    {
+      "id": 123,
+      "title": "Tarefa 123",
+      "description": "Descrição",
+      "dueDate": "2026-08-28",
+      "reminderDate": "2026-08-25",
+      "notificationMode": "DAILY",
+      "groupId": 9,
+      "createdBy": 29
+    },
+    {
+      "id": 124,
+      "title": "Tarefa 124",
+      "description": "Descrição",
+      "dueDate": "2026-07-25",
+      "reminderDate": "2026-07-24",
+      "notificationMode": "SINGLE",
+      "groupId": 9,
+      "createdBy": 9
+    },
+    {
+      "id": 125,
+      "title": "Tarefa 125",
+      "description": "Descrição",
+      "dueDate": "2026-07-03",
+      "reminderDate": "2026-07-01",
+      "notificationMode": "SINGLE",
+      "groupId": 9,
+      "createdBy": 29
+    },
+    {
+      "id": 126,
+      "title": "Tarefa 126",
+      "description": "Descrição",
+      "dueDate": "2026-08-18",
+      "reminderDate": "2026-08-17",
+      "notificationMode": "SINGLE",
+      "groupId": 9,
+      "createdBy": 39
+    },
+    {
+      "id": 127,
+      "title": "Tarefa 127",
+      "description": "Descrição",
+      "dueDate": "2026-08-10",
+      "reminderDate": "2026-08-04",
+      "notificationMode": "SINGLE",
+      "groupId": 9,
+      "createdBy": 29
+    },
+    {
+      "id": 128,
+      "title": "Tarefa 128",
+      "description": "Descrição",
+      "dueDate": "2026-06-07",
+      "reminderDate": "2026-05-31",
+      "notificationMode": "SINGLE",
+      "groupId": 9,
+      "createdBy": 23
+    },
+    {
+      "id": 129,
+      "title": "Tarefa 129",
+      "description": "Descrição",
+      "dueDate": "2026-08-27",
+      "reminderDate": "2026-08-22",
+      "notificationMode": "DAILY",
+      "groupId": 9,
+      "createdBy": 29
+    },
+    {
+      "id": 130,
+      "title": "Tarefa 130",
+      "description": "Descrição",
+      "dueDate": "2026-08-18",
+      "reminderDate": "2026-08-12",
+      "notificationMode": "SINGLE",
+      "groupId": 9,
+      "createdBy": 23
+    },
+    {
+      "id": 131,
+      "title": "Tarefa 131",
+      "description": "Descrição",
+      "dueDate": "2026-08-03",
+      "reminderDate": "2026-07-28",
+      "notificationMode": "SINGLE",
+      "groupId": 9,
+      "createdBy": 21
+    },
+    {
+      "id": 132,
+      "title": "Tarefa 132",
+      "description": "Descrição",
+      "dueDate": "2026-08-24",
+      "reminderDate": "2026-08-21",
+      "notificationMode": "DAILY",
+      "groupId": 9,
+      "createdBy": 14
+    },
+    {
+      "id": 133,
+      "title": "Tarefa 133",
+      "description": "Descrição",
+      "dueDate": "2026-08-05",
+      "reminderDate": "2026-08-02",
+      "notificationMode": "SINGLE",
+      "groupId": 9,
+      "createdBy": 34
+    },
+    {
+      "id": 134,
+      "title": "Tarefa 134",
+      "description": "Descrição",
+      "dueDate": "2026-08-11",
+      "reminderDate": "2026-08-05",
+      "notificationMode": "SINGLE",
+      "groupId": 9,
+      "createdBy": 39
+    },
+    {
+      "id": 135,
+      "title": "Tarefa 135",
+      "description": "Descrição",
+      "dueDate": "2026-07-06",
+      "reminderDate": "2026-07-02",
+      "notificationMode": "DAILY",
+      "groupId": 9,
+      "createdBy": 14
+    },
+    {
+      "id": 136,
+      "title": "Tarefa 136",
+      "description": "Descrição",
+      "dueDate": "2026-07-31",
+      "reminderDate": "2026-07-29",
+      "notificationMode": "SINGLE",
+      "groupId": 10,
+      "createdBy": 39
+    },
+    {
+      "id": 137,
+      "title": "Tarefa 137",
+      "description": "Descrição",
+      "dueDate": "2026-06-20",
+      "reminderDate": "2026-06-19",
+      "notificationMode": "DAILY",
+      "groupId": 10,
+      "createdBy": 34
+    },
+    {
+      "id": 138,
+      "title": "Tarefa 138",
+      "description": "Descrição",
+      "dueDate": "2026-08-19",
+      "reminderDate": "2026-08-15",
+      "notificationMode": "DAILY",
+      "groupId": 10,
+      "createdBy": 33
+    },
+    {
+      "id": 139,
+      "title": "Tarefa 139",
+      "description": "Descrição",
+      "dueDate": "2026-06-12",
+      "reminderDate": "2026-06-06",
+      "notificationMode": "SINGLE",
+      "groupId": 10,
+      "createdBy": 34
+    },
+    {
+      "id": 140,
+      "title": "Tarefa 140",
+      "description": "Descrição",
+      "dueDate": "2026-08-04",
+      "reminderDate": "2026-07-30",
+      "notificationMode": "DAILY",
+      "groupId": 10,
+      "createdBy": 27
+    },
+    {
+      "id": 141,
+      "title": "Tarefa 141",
+      "description": "Descrição",
+      "dueDate": "2026-06-29",
+      "reminderDate": "2026-06-28",
+      "notificationMode": "SINGLE",
+      "groupId": 10,
+      "createdBy": 27
+    },
+    {
+      "id": 142,
+      "title": "Tarefa 142",
+      "description": "Descrição",
+      "dueDate": "2026-08-06",
+      "reminderDate": "2026-08-02",
+      "notificationMode": "SINGLE",
+      "groupId": 10,
+      "createdBy": 10
+    },
+    {
+      "id": 143,
+      "title": "Tarefa 143",
+      "description": "Descrição",
+      "dueDate": "2026-08-27",
+      "reminderDate": "2026-08-22",
+      "notificationMode": "DAILY",
+      "groupId": 10,
+      "createdBy": 10
+    },
+    {
+      "id": 144,
+      "title": "Tarefa 144",
+      "description": "Descrição",
+      "dueDate": "2026-07-05",
+      "reminderDate": "2026-06-30",
+      "notificationMode": "DAILY",
+      "groupId": 10,
+      "createdBy": 10
+    },
+    {
+      "id": 145,
+      "title": "Tarefa 145",
+      "description": "Descrição",
+      "dueDate": "2026-08-21",
+      "reminderDate": "2026-08-15",
+      "notificationMode": "SINGLE",
+      "groupId": 10,
+      "createdBy": 20
+    },
+    {
+      "id": 146,
+      "title": "Tarefa 146",
+      "description": "Descrição",
+      "dueDate": "2026-06-15",
+      "reminderDate": "2026-06-12",
+      "notificationMode": "SINGLE",
+      "groupId": 10,
+      "createdBy": 3
+    },
+    {
+      "id": 147,
+      "title": "Tarefa 147",
+      "description": "Descrição",
+      "dueDate": "2026-08-19",
+      "reminderDate": "2026-08-13",
+      "notificationMode": "DAILY",
+      "groupId": 10,
+      "createdBy": 34
+    },
+    {
+      "id": 148,
+      "title": "Tarefa 148",
+      "description": "Descrição",
+      "dueDate": "2026-08-20",
+      "reminderDate": "2026-08-17",
+      "notificationMode": "SINGLE",
+      "groupId": 10,
+      "createdBy": 34
+    },
+    {
+      "id": 149,
+      "title": "Tarefa 149",
+      "description": "Descrição",
+      "dueDate": "2026-06-28",
+      "reminderDate": "2026-06-24",
+      "notificationMode": "SINGLE",
+      "groupId": 10,
+      "createdBy": 39
+    },
+    {
+      "id": 150,
+      "title": "Tarefa 150",
+      "description": "Descrição",
+      "dueDate": "2026-06-17",
+      "reminderDate": "2026-06-13",
+      "notificationMode": "SINGLE",
+      "groupId": 10,
+      "createdBy": 27
+    },
+    {
+      "id": 151,
+      "title": "Tarefa 151",
+      "description": "Descrição",
+      "dueDate": "2026-08-09",
+      "reminderDate": "2026-08-04",
+      "notificationMode": "SINGLE",
+      "groupId": 11,
+      "createdBy": 25
+    },
+    {
+      "id": 152,
+      "title": "Tarefa 152",
+      "description": "Descrição",
+      "dueDate": "2026-06-10",
+      "reminderDate": "2026-06-05",
+      "notificationMode": "SINGLE",
+      "groupId": 11,
+      "createdBy": 32
+    },
+    {
+      "id": 153,
+      "title": "Tarefa 153",
+      "description": "Descrição",
+      "dueDate": "2026-07-19",
+      "reminderDate": "2026-07-12",
+      "notificationMode": "DAILY",
+      "groupId": 11,
+      "createdBy": 27
+    },
+    {
+      "id": 154,
+      "title": "Tarefa 154",
+      "description": "Descrição",
+      "dueDate": "2026-08-27",
+      "reminderDate": "2026-08-20",
+      "notificationMode": "SINGLE",
+      "groupId": 11,
+      "createdBy": 13
+    },
+    {
+      "id": 155,
+      "title": "Tarefa 155",
+      "description": "Descrição",
+      "dueDate": "2026-06-13",
+      "reminderDate": "2026-06-09",
+      "notificationMode": "DAILY",
+      "groupId": 11,
+      "createdBy": 11
+    },
+    {
+      "id": 156,
+      "title": "Tarefa 156",
+      "description": "Descrição",
+      "dueDate": "2026-07-22",
+      "reminderDate": "2026-07-17",
+      "notificationMode": "SINGLE",
+      "groupId": 11,
+      "createdBy": 27
+    },
+    {
+      "id": 157,
+      "title": "Tarefa 157",
+      "description": "Descrição",
+      "dueDate": "2026-06-01",
+      "reminderDate": "2026-05-25",
+      "notificationMode": "SINGLE",
+      "groupId": 11,
+      "createdBy": 11
+    },
+    {
+      "id": 158,
+      "title": "Tarefa 158",
+      "description": "Descrição",
+      "dueDate": "2026-07-05",
+      "reminderDate": "2026-06-28",
+      "notificationMode": "DAILY",
+      "groupId": 11,
+      "createdBy": 28
+    },
+    {
+      "id": 159,
+      "title": "Tarefa 159",
+      "description": "Descrição",
+      "dueDate": "2026-08-11",
+      "reminderDate": "2026-08-08",
+      "notificationMode": "SINGLE",
+      "groupId": 11,
+      "createdBy": 25
+    },
+    {
+      "id": 160,
+      "title": "Tarefa 160",
+      "description": "Descrição",
+      "dueDate": "2026-07-03",
+      "reminderDate": "2026-06-27",
+      "notificationMode": "SINGLE",
+      "groupId": 11,
+      "createdBy": 13
+    },
+    {
+      "id": 161,
+      "title": "Tarefa 161",
+      "description": "Descrição",
+      "dueDate": "2026-07-14",
+      "reminderDate": "2026-07-10",
+      "notificationMode": "SINGLE",
+      "groupId": 11,
+      "createdBy": 25
+    },
+    {
+      "id": 162,
+      "title": "Tarefa 162",
+      "description": "Descrição",
+      "dueDate": "2026-08-26",
+      "reminderDate": "2026-08-25",
+      "notificationMode": "SINGLE",
+      "groupId": 11,
+      "createdBy": 28
+    },
+    {
+      "id": 163,
+      "title": "Tarefa 163",
+      "description": "Descrição",
+      "dueDate": "2026-08-14",
+      "reminderDate": "2026-08-13",
+      "notificationMode": "SINGLE",
+      "groupId": 11,
+      "createdBy": 27
+    },
+    {
+      "id": 164,
+      "title": "Tarefa 164",
+      "description": "Descrição",
+      "dueDate": "2026-06-13",
+      "reminderDate": "2026-06-11",
+      "notificationMode": "DAILY",
+      "groupId": 11,
+      "createdBy": 17
+    },
+    {
+      "id": 165,
+      "title": "Tarefa 165",
+      "description": "Descrição",
+      "dueDate": "2026-08-03",
+      "reminderDate": "2026-07-28",
+      "notificationMode": "SINGLE",
+      "groupId": 11,
+      "createdBy": 25
+    },
+    {
+      "id": 166,
+      "title": "Tarefa 166",
+      "description": "Descrição",
+      "dueDate": "2026-08-02",
+      "reminderDate": "2026-07-30",
+      "notificationMode": "SINGLE",
+      "groupId": 12,
+      "createdBy": 7
+    },
+    {
+      "id": 167,
+      "title": "Tarefa 167",
+      "description": "Descrição",
+      "dueDate": "2026-08-23",
+      "reminderDate": "2026-08-22",
+      "notificationMode": "DAILY",
+      "groupId": 12,
+      "createdBy": 37
+    },
+    {
+      "id": 168,
+      "title": "Tarefa 168",
+      "description": "Descrição",
+      "dueDate": "2026-08-07",
+      "reminderDate": "2026-07-31",
+      "notificationMode": "DAILY",
+      "groupId": 12,
+      "createdBy": 12
+    },
+    {
+      "id": 169,
+      "title": "Tarefa 169",
+      "description": "Descrição",
+      "dueDate": "2026-06-30",
+      "reminderDate": "2026-06-25",
+      "notificationMode": "DAILY",
+      "groupId": 12,
+      "createdBy": 34
+    },
+    {
+      "id": 170,
+      "title": "Tarefa 170",
+      "description": "Descrição",
+      "dueDate": "2026-06-23",
+      "reminderDate": "2026-06-20",
+      "notificationMode": "SINGLE",
+      "groupId": 12,
+      "createdBy": 34
+    },
+    {
+      "id": 171,
+      "title": "Tarefa 171",
+      "description": "Descrição",
+      "dueDate": "2026-08-14",
+      "reminderDate": "2026-08-13",
+      "notificationMode": "SINGLE",
+      "groupId": 12,
+      "createdBy": 30
+    },
+    {
+      "id": 172,
+      "title": "Tarefa 172",
+      "description": "Descrição",
+      "dueDate": "2026-08-29",
+      "reminderDate": "2026-08-24",
+      "notificationMode": "SINGLE",
+      "groupId": 12,
+      "createdBy": 34
+    },
+    {
+      "id": 173,
+      "title": "Tarefa 173",
+      "description": "Descrição",
+      "dueDate": "2026-06-07",
+      "reminderDate": "2026-06-03",
+      "notificationMode": "SINGLE",
+      "groupId": 12,
+      "createdBy": 12
+    },
+    {
+      "id": 174,
+      "title": "Tarefa 174",
+      "description": "Descrição",
+      "dueDate": "2026-06-03",
+      "reminderDate": "2026-05-27",
+      "notificationMode": "DAILY",
+      "groupId": 12,
+      "createdBy": 25
+    },
+    {
+      "id": 175,
+      "title": "Tarefa 175",
+      "description": "Descrição",
+      "dueDate": "2026-08-11",
+      "reminderDate": "2026-08-05",
+      "notificationMode": "DAILY",
+      "groupId": 12,
+      "createdBy": 7
+    },
+    {
+      "id": 176,
+      "title": "Tarefa 176",
+      "description": "Descrição",
+      "dueDate": "2026-06-22",
+      "reminderDate": "2026-06-16",
+      "notificationMode": "DAILY",
+      "groupId": 12,
+      "createdBy": 6
+    },
+    {
+      "id": 177,
+      "title": "Tarefa 177",
+      "description": "Descrição",
+      "dueDate": "2026-07-04",
+      "reminderDate": "2026-06-29",
+      "notificationMode": "SINGLE",
+      "groupId": 12,
+      "createdBy": 25
+    },
+    {
+      "id": 178,
+      "title": "Tarefa 178",
+      "description": "Descrição",
+      "dueDate": "2026-07-14",
+      "reminderDate": "2026-07-12",
+      "notificationMode": "DAILY",
+      "groupId": 12,
+      "createdBy": 25
+    },
+    {
+      "id": 179,
+      "title": "Tarefa 179",
+      "description": "Descrição",
+      "dueDate": "2026-06-02",
+      "reminderDate": "2026-05-31",
+      "notificationMode": "DAILY",
+      "groupId": 12,
+      "createdBy": 37
+    },
+    {
+      "id": 180,
+      "title": "Tarefa 180",
+      "description": "Descrição",
+      "dueDate": "2026-06-26",
+      "reminderDate": "2026-06-21",
+      "notificationMode": "SINGLE",
+      "groupId": 12,
+      "createdBy": 6
+    }
+  ],
+  "taskAssignments": [
+    {
+      "id": 1,
+      "taskId": 1,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-20T12:00:00"
+    },
+    {
+      "id": 2,
+      "taskId": 1,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 3,
+      "taskId": 1,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-20T12:00:00"
+    },
+    {
+      "id": 4,
+      "taskId": 2,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 5,
+      "taskId": 2,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 6,
+      "taskId": 2,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 7,
+      "taskId": 3,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 8,
+      "taskId": 3,
+      "userId": 18,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-25T12:00:00"
+    },
+    {
+      "id": 9,
+      "taskId": 3,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-25T12:00:00"
+    },
+    {
+      "id": 10,
+      "taskId": 4,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 11,
+      "taskId": 4,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 12,
+      "taskId": 4,
+      "userId": 18,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 13,
+      "taskId": 5,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 14,
+      "taskId": 5,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 15,
+      "taskId": 5,
+      "userId": 18,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 16,
+      "taskId": 6,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 17,
+      "taskId": 6,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 18,
+      "taskId": 6,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 19,
+      "taskId": 7,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 20,
+      "taskId": 7,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 21,
+      "taskId": 7,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 22,
+      "taskId": 8,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 23,
+      "taskId": 8,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 24,
+      "taskId": 8,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-11T12:00:00"
+    },
+    {
+      "id": 25,
+      "taskId": 9,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 26,
+      "taskId": 9,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 27,
+      "taskId": 9,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-01T12:00:00"
+    },
+    {
+      "id": 28,
+      "taskId": 10,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 29,
+      "taskId": 10,
+      "userId": 18,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-07T12:00:00"
+    },
+    {
+      "id": 30,
+      "taskId": 10,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 31,
+      "taskId": 11,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 32,
+      "taskId": 11,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-07T12:00:00"
+    },
+    {
+      "id": 33,
+      "taskId": 11,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-07T12:00:00"
+    },
+    {
+      "id": 34,
+      "taskId": 12,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 35,
+      "taskId": 12,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 36,
+      "taskId": 12,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 37,
+      "taskId": 13,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 38,
+      "taskId": 13,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 39,
+      "taskId": 13,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 40,
+      "taskId": 14,
+      "userId": 18,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-20T12:00:00"
+    },
+    {
+      "id": 41,
+      "taskId": 14,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 42,
+      "taskId": 14,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 43,
+      "taskId": 15,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 44,
+      "taskId": 15,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 45,
+      "taskId": 15,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-22T12:00:00"
+    },
+    {
+      "id": 46,
+      "taskId": 16,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-16T12:00:00"
+    },
+    {
+      "id": 47,
+      "taskId": 16,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 48,
+      "taskId": 16,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 49,
+      "taskId": 17,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 50,
+      "taskId": 17,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 51,
+      "taskId": 17,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 52,
+      "taskId": 18,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 53,
+      "taskId": 18,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 54,
+      "taskId": 18,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 55,
+      "taskId": 19,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-25T12:00:00"
+    },
+    {
+      "id": 56,
+      "taskId": 19,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 57,
+      "taskId": 19,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-25T12:00:00"
+    },
+    {
+      "id": 58,
+      "taskId": 20,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 59,
+      "taskId": 20,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-02T12:00:00"
+    },
+    {
+      "id": 60,
+      "taskId": 20,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 61,
+      "taskId": 21,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-17T12:00:00"
+    },
+    {
+      "id": 62,
+      "taskId": 21,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 63,
+      "taskId": 21,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-17T12:00:00"
+    },
+    {
+      "id": 64,
+      "taskId": 22,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 65,
+      "taskId": 22,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 66,
+      "taskId": 22,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 67,
+      "taskId": 23,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 68,
+      "taskId": 23,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-21T12:00:00"
+    },
+    {
+      "id": 69,
+      "taskId": 23,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-21T12:00:00"
+    },
+    {
+      "id": 70,
+      "taskId": 24,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 71,
+      "taskId": 24,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 72,
+      "taskId": 24,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 73,
+      "taskId": 25,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 74,
+      "taskId": 25,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-13T12:00:00"
+    },
+    {
+      "id": 75,
+      "taskId": 25,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 76,
+      "taskId": 26,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 77,
+      "taskId": 26,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 78,
+      "taskId": 26,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 79,
+      "taskId": 27,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 80,
+      "taskId": 27,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-04T12:00:00"
+    },
+    {
+      "id": 81,
+      "taskId": 27,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 82,
+      "taskId": 28,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 83,
+      "taskId": 28,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 84,
+      "taskId": 28,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 85,
+      "taskId": 29,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 86,
+      "taskId": 29,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 87,
+      "taskId": 29,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 88,
+      "taskId": 30,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-25T12:00:00"
+    },
+    {
+      "id": 89,
+      "taskId": 30,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 90,
+      "taskId": 30,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 91,
+      "taskId": 31,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-22T12:00:00"
+    },
+    {
+      "id": 92,
+      "taskId": 31,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-22T12:00:00"
+    },
+    {
+      "id": 93,
+      "taskId": 31,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-22T12:00:00"
+    },
+    {
+      "id": 94,
+      "taskId": 32,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 95,
+      "taskId": 32,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-10T12:00:00"
+    },
+    {
+      "id": 96,
+      "taskId": 32,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 97,
+      "taskId": 33,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 98,
+      "taskId": 33,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 99,
+      "taskId": 33,
+      "userId": 19,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 100,
+      "taskId": 34,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-09T12:00:00"
+    },
+    {
+      "id": 101,
+      "taskId": 34,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 102,
+      "taskId": 34,
+      "userId": 19,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 103,
+      "taskId": 35,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-12T12:00:00"
+    },
+    {
+      "id": 104,
+      "taskId": 35,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 105,
+      "taskId": 35,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-12T12:00:00"
+    },
+    {
+      "id": 106,
+      "taskId": 36,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 107,
+      "taskId": 36,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 108,
+      "taskId": 36,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 109,
+      "taskId": 37,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 110,
+      "taskId": 37,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 111,
+      "taskId": 37,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 112,
+      "taskId": 38,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-09T12:00:00"
+    },
+    {
+      "id": 113,
+      "taskId": 38,
+      "userId": 19,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 114,
+      "taskId": 38,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 115,
+      "taskId": 39,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 116,
+      "taskId": 39,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 117,
+      "taskId": 39,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 118,
+      "taskId": 40,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 119,
+      "taskId": 40,
+      "userId": 19,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 120,
+      "taskId": 40,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 121,
+      "taskId": 41,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 122,
+      "taskId": 41,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 123,
+      "taskId": 41,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 124,
+      "taskId": 42,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 125,
+      "taskId": 42,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-24T12:00:00"
+    },
+    {
+      "id": 126,
+      "taskId": 42,
+      "userId": 19,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 127,
+      "taskId": 43,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 128,
+      "taskId": 43,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-26T12:00:00"
+    },
+    {
+      "id": 129,
+      "taskId": 43,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-26T12:00:00"
+    },
+    {
+      "id": 130,
+      "taskId": 44,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 131,
+      "taskId": 44,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-03T12:00:00"
+    },
+    {
+      "id": 132,
+      "taskId": 44,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 133,
+      "taskId": 45,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 134,
+      "taskId": 45,
+      "userId": 19,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-17T12:00:00"
+    },
+    {
+      "id": 135,
+      "taskId": 45,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 136,
+      "taskId": 46,
+      "userId": 4,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-17T12:00:00"
+    },
+    {
+      "id": 137,
+      "taskId": 46,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 138,
+      "taskId": 46,
+      "userId": 22,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 139,
+      "taskId": 47,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 140,
+      "taskId": 47,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-26T12:00:00"
+    },
+    {
+      "id": 141,
+      "taskId": 47,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 142,
+      "taskId": 48,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 143,
+      "taskId": 48,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 144,
+      "taskId": 48,
+      "userId": 4,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 145,
+      "taskId": 49,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 146,
+      "taskId": 49,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-17T12:00:00"
+    },
+    {
+      "id": 147,
+      "taskId": 49,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 148,
+      "taskId": 50,
+      "userId": 22,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 149,
+      "taskId": 50,
+      "userId": 4,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 150,
+      "taskId": 50,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 151,
+      "taskId": 51,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 152,
+      "taskId": 51,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 153,
+      "taskId": 51,
+      "userId": 22,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-18T12:00:00"
+    },
+    {
+      "id": 154,
+      "taskId": 52,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 155,
+      "taskId": 52,
+      "userId": 22,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 156,
+      "taskId": 52,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 157,
+      "taskId": 53,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 158,
+      "taskId": 53,
+      "userId": 4,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 159,
+      "taskId": 53,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 160,
+      "taskId": 54,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-17T12:00:00"
+    },
+    {
+      "id": 161,
+      "taskId": 54,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-17T12:00:00"
+    },
+    {
+      "id": 162,
+      "taskId": 54,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 163,
+      "taskId": 55,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 164,
+      "taskId": 55,
+      "userId": 4,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 165,
+      "taskId": 55,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-11T12:00:00"
+    },
+    {
+      "id": 166,
+      "taskId": 56,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 167,
+      "taskId": 56,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 168,
+      "taskId": 56,
+      "userId": 22,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 169,
+      "taskId": 57,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-26T12:00:00"
+    },
+    {
+      "id": 170,
+      "taskId": 57,
+      "userId": 22,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 171,
+      "taskId": 57,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 172,
+      "taskId": 58,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-06T12:00:00"
+    },
+    {
+      "id": 173,
+      "taskId": 58,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 174,
+      "taskId": 58,
+      "userId": 22,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-06T12:00:00"
+    },
+    {
+      "id": 175,
+      "taskId": 59,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 176,
+      "taskId": 59,
+      "userId": 4,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-21T12:00:00"
+    },
+    {
+      "id": 177,
+      "taskId": 59,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 178,
+      "taskId": 60,
+      "userId": 4,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 179,
+      "taskId": 60,
+      "userId": 22,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-06T12:00:00"
+    },
+    {
+      "id": 180,
+      "taskId": 60,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 181,
+      "taskId": 61,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 182,
+      "taskId": 61,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 183,
+      "taskId": 61,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-22T12:00:00"
+    },
+    {
+      "id": 184,
+      "taskId": 62,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-06T12:00:00"
+    },
+    {
+      "id": 185,
+      "taskId": 62,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-06T12:00:00"
+    },
+    {
+      "id": 186,
+      "taskId": 62,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 187,
+      "taskId": 63,
+      "userId": 5,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-21T12:00:00"
+    },
+    {
+      "id": 188,
+      "taskId": 63,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 189,
+      "taskId": 63,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 190,
+      "taskId": 64,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-05-31T12:00:00"
+    },
+    {
+      "id": 191,
+      "taskId": 64,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 192,
+      "taskId": 64,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 193,
+      "taskId": 65,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 194,
+      "taskId": 65,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-09T12:00:00"
+    },
+    {
+      "id": 195,
+      "taskId": 65,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 196,
+      "taskId": 66,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 197,
+      "taskId": 66,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 198,
+      "taskId": 66,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 199,
+      "taskId": 67,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 200,
+      "taskId": 67,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 201,
+      "taskId": 67,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-08T12:00:00"
+    },
+    {
+      "id": 202,
+      "taskId": 68,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 203,
+      "taskId": 68,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 204,
+      "taskId": 68,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 205,
+      "taskId": 69,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-14T12:00:00"
+    },
+    {
+      "id": 206,
+      "taskId": 69,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 207,
+      "taskId": 69,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-14T12:00:00"
+    },
+    {
+      "id": 208,
+      "taskId": 70,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 209,
+      "taskId": 70,
+      "userId": 5,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 210,
+      "taskId": 70,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 211,
+      "taskId": 71,
+      "userId": 5,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 212,
+      "taskId": 71,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 213,
+      "taskId": 71,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 214,
+      "taskId": 72,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 215,
+      "taskId": 72,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-29T12:00:00"
+    },
+    {
+      "id": 216,
+      "taskId": 72,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 217,
+      "taskId": 73,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 218,
+      "taskId": 73,
+      "userId": 5,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 219,
+      "taskId": 73,
+      "userId": 15,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 220,
+      "taskId": 74,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-17T12:00:00"
+    },
+    {
+      "id": 221,
+      "taskId": 74,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-17T12:00:00"
+    },
+    {
+      "id": 222,
+      "taskId": 74,
+      "userId": 26,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 223,
+      "taskId": 75,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 224,
+      "taskId": 75,
+      "userId": 1,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-29T12:00:00"
+    },
+    {
+      "id": 225,
+      "taskId": 75,
+      "userId": 36,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 226,
+      "taskId": 76,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 227,
+      "taskId": 76,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-28T12:00:00"
+    },
+    {
+      "id": 228,
+      "taskId": 76,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-28T12:00:00"
+    },
+    {
+      "id": 229,
+      "taskId": 77,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 230,
+      "taskId": 77,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-25T12:00:00"
+    },
+    {
+      "id": 231,
+      "taskId": 77,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 232,
+      "taskId": 78,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 233,
+      "taskId": 78,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 234,
+      "taskId": 78,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-18T12:00:00"
+    },
+    {
+      "id": 235,
+      "taskId": 79,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 236,
+      "taskId": 79,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 237,
+      "taskId": 79,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-16T12:00:00"
+    },
+    {
+      "id": 238,
+      "taskId": 80,
+      "userId": 35,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 239,
+      "taskId": 80,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 240,
+      "taskId": 80,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 241,
+      "taskId": 81,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 242,
+      "taskId": 81,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 243,
+      "taskId": 81,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 244,
+      "taskId": 82,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 245,
+      "taskId": 82,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 246,
+      "taskId": 82,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-17T12:00:00"
+    },
+    {
+      "id": 247,
+      "taskId": 83,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 248,
+      "taskId": 83,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-29T12:00:00"
+    },
+    {
+      "id": 249,
+      "taskId": 83,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-29T12:00:00"
+    },
+    {
+      "id": 250,
+      "taskId": 84,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-09T12:00:00"
+    },
+    {
+      "id": 251,
+      "taskId": 84,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-09T12:00:00"
+    },
+    {
+      "id": 252,
+      "taskId": 84,
+      "userId": 35,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 253,
+      "taskId": 85,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-14T12:00:00"
+    },
+    {
+      "id": 254,
+      "taskId": 85,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-14T12:00:00"
+    },
+    {
+      "id": 255,
+      "taskId": 85,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 256,
+      "taskId": 86,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 257,
+      "taskId": 86,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 258,
+      "taskId": 86,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-06T12:00:00"
+    },
+    {
+      "id": 259,
+      "taskId": 87,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 260,
+      "taskId": 87,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 261,
+      "taskId": 87,
+      "userId": 35,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-18T12:00:00"
+    },
+    {
+      "id": 262,
+      "taskId": 88,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 263,
+      "taskId": 88,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 264,
+      "taskId": 88,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 265,
+      "taskId": 89,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-05T12:00:00"
+    },
+    {
+      "id": 266,
+      "taskId": 89,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 267,
+      "taskId": 89,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 268,
+      "taskId": 90,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-05T12:00:00"
+    },
+    {
+      "id": 269,
+      "taskId": 90,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 270,
+      "taskId": 90,
+      "userId": 38,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-05T12:00:00"
+    },
+    {
+      "id": 271,
+      "taskId": 91,
+      "userId": 24,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 272,
+      "taskId": 91,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 273,
+      "taskId": 91,
+      "userId": 31,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-03T12:00:00"
+    },
+    {
+      "id": 274,
+      "taskId": 92,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 275,
+      "taskId": 92,
+      "userId": 31,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 276,
+      "taskId": 92,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 277,
+      "taskId": 93,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 278,
+      "taskId": 93,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 279,
+      "taskId": 93,
+      "userId": 31,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-07T12:00:00"
+    },
+    {
+      "id": 280,
+      "taskId": 94,
+      "userId": 24,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 281,
+      "taskId": 94,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 282,
+      "taskId": 94,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 283,
+      "taskId": 95,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 284,
+      "taskId": 95,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 285,
+      "taskId": 95,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 286,
+      "taskId": 96,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 287,
+      "taskId": 96,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 288,
+      "taskId": 96,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 289,
+      "taskId": 97,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-04T12:00:00"
+    },
+    {
+      "id": 290,
+      "taskId": 97,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 291,
+      "taskId": 97,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 292,
+      "taskId": 98,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 293,
+      "taskId": 98,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-03T12:00:00"
+    },
+    {
+      "id": 294,
+      "taskId": 98,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 295,
+      "taskId": 99,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-24T12:00:00"
+    },
+    {
+      "id": 296,
+      "taskId": 99,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 297,
+      "taskId": 99,
+      "userId": 31,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-24T12:00:00"
+    },
+    {
+      "id": 298,
+      "taskId": 100,
+      "userId": 31,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 299,
+      "taskId": 100,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 300,
+      "taskId": 100,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 301,
+      "taskId": 101,
+      "userId": 24,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 302,
+      "taskId": 101,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-03T12:00:00"
+    },
+    {
+      "id": 303,
+      "taskId": 101,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 304,
+      "taskId": 102,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-22T12:00:00"
+    },
+    {
+      "id": 305,
+      "taskId": 102,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-22T12:00:00"
+    },
+    {
+      "id": 306,
+      "taskId": 102,
+      "userId": 31,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-22T12:00:00"
+    },
+    {
+      "id": 307,
+      "taskId": 103,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 308,
+      "taskId": 103,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 309,
+      "taskId": 103,
+      "userId": 31,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 310,
+      "taskId": 104,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 311,
+      "taskId": 104,
+      "userId": 16,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-15T12:00:00"
+    },
+    {
+      "id": 312,
+      "taskId": 104,
+      "userId": 31,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-15T12:00:00"
+    },
+    {
+      "id": 313,
+      "taskId": 105,
+      "userId": 2,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 314,
+      "taskId": 105,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 315,
+      "taskId": 105,
+      "userId": 31,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 316,
+      "taskId": 106,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 317,
+      "taskId": 106,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-06T12:00:00"
+    },
+    {
+      "id": 318,
+      "taskId": 106,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-06T12:00:00"
+    },
+    {
+      "id": 319,
+      "taskId": 107,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 320,
+      "taskId": 107,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 321,
+      "taskId": 107,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 322,
+      "taskId": 108,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 323,
+      "taskId": 108,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-03T12:00:00"
+    },
+    {
+      "id": 324,
+      "taskId": 108,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 325,
+      "taskId": 109,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 326,
+      "taskId": 109,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 327,
+      "taskId": 109,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 328,
+      "taskId": 110,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 329,
+      "taskId": 110,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 330,
+      "taskId": 110,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 331,
+      "taskId": 111,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 332,
+      "taskId": 111,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 333,
+      "taskId": 111,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 334,
+      "taskId": 112,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 335,
+      "taskId": 112,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 336,
+      "taskId": 112,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-02T12:00:00"
+    },
+    {
+      "id": 337,
+      "taskId": 113,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 338,
+      "taskId": 113,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 339,
+      "taskId": 113,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-09T12:00:00"
+    },
+    {
+      "id": 340,
+      "taskId": 114,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 341,
+      "taskId": 114,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-04T12:00:00"
+    },
+    {
+      "id": 342,
+      "taskId": 114,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 343,
+      "taskId": 115,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 344,
+      "taskId": 115,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 345,
+      "taskId": 115,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-15T12:00:00"
+    },
+    {
+      "id": 346,
+      "taskId": 116,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 347,
+      "taskId": 116,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-04T12:00:00"
+    },
+    {
+      "id": 348,
+      "taskId": 116,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 349,
+      "taskId": 117,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-19T12:00:00"
+    },
+    {
+      "id": 350,
+      "taskId": 117,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 351,
+      "taskId": 117,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 352,
+      "taskId": 118,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 353,
+      "taskId": 118,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 354,
+      "taskId": 118,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 355,
+      "taskId": 119,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 356,
+      "taskId": 119,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 357,
+      "taskId": 119,
+      "userId": 8,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 358,
+      "taskId": 120,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-19T12:00:00"
+    },
+    {
+      "id": 359,
+      "taskId": 120,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-19T12:00:00"
+    },
+    {
+      "id": 360,
+      "taskId": 120,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-19T12:00:00"
+    },
+    {
+      "id": 361,
+      "taskId": 121,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 362,
+      "taskId": 121,
+      "userId": 23,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-14T12:00:00"
+    },
+    {
+      "id": 363,
+      "taskId": 121,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-14T12:00:00"
+    },
+    {
+      "id": 364,
+      "taskId": 122,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-16T12:00:00"
+    },
+    {
+      "id": 365,
+      "taskId": 122,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 366,
+      "taskId": 122,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-16T12:00:00"
+    },
+    {
+      "id": 367,
+      "taskId": 123,
+      "userId": 21,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 368,
+      "taskId": 123,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-27T12:00:00"
+    },
+    {
+      "id": 369,
+      "taskId": 123,
+      "userId": 23,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-27T12:00:00"
+    },
+    {
+      "id": 370,
+      "taskId": 124,
+      "userId": 23,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 371,
+      "taskId": 124,
+      "userId": 21,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 372,
+      "taskId": 124,
+      "userId": 14,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 373,
+      "taskId": 125,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 374,
+      "taskId": 125,
+      "userId": 14,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 375,
+      "taskId": 125,
+      "userId": 23,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-02T12:00:00"
+    },
+    {
+      "id": 376,
+      "taskId": 126,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 377,
+      "taskId": 126,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 378,
+      "taskId": 126,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 379,
+      "taskId": 127,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 380,
+      "taskId": 127,
+      "userId": 14,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-09T12:00:00"
+    },
+    {
+      "id": 381,
+      "taskId": 127,
+      "userId": 21,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 382,
+      "taskId": 128,
+      "userId": 21,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 383,
+      "taskId": 128,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-06T12:00:00"
+    },
+    {
+      "id": 384,
+      "taskId": 128,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-06T12:00:00"
+    },
+    {
+      "id": 385,
+      "taskId": 129,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 386,
+      "taskId": 129,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 387,
+      "taskId": 129,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-26T12:00:00"
+    },
+    {
+      "id": 388,
+      "taskId": 130,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 389,
+      "taskId": 130,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 390,
+      "taskId": 130,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-17T12:00:00"
+    },
+    {
+      "id": 391,
+      "taskId": 131,
+      "userId": 21,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-02T12:00:00"
+    },
+    {
+      "id": 392,
+      "taskId": 131,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 393,
+      "taskId": 131,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 394,
+      "taskId": 132,
+      "userId": 9,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-23T12:00:00"
+    },
+    {
+      "id": 395,
+      "taskId": 132,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 396,
+      "taskId": 132,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 397,
+      "taskId": 133,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-04T12:00:00"
+    },
+    {
+      "id": 398,
+      "taskId": 133,
+      "userId": 23,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 399,
+      "taskId": 133,
+      "userId": 14,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-04T12:00:00"
+    },
+    {
+      "id": 400,
+      "taskId": 134,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 401,
+      "taskId": 134,
+      "userId": 21,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-10T12:00:00"
+    },
+    {
+      "id": 402,
+      "taskId": 134,
+      "userId": 14,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-10T12:00:00"
+    },
+    {
+      "id": 403,
+      "taskId": 135,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-05T12:00:00"
+    },
+    {
+      "id": 404,
+      "taskId": 135,
+      "userId": 29,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-05T12:00:00"
+    },
+    {
+      "id": 405,
+      "taskId": 135,
+      "userId": 23,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 406,
+      "taskId": 136,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 407,
+      "taskId": 136,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-30T12:00:00"
+    },
+    {
+      "id": 408,
+      "taskId": 136,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 409,
+      "taskId": 137,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 410,
+      "taskId": 137,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 411,
+      "taskId": 137,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-19T12:00:00"
+    },
+    {
+      "id": 412,
+      "taskId": 138,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 413,
+      "taskId": 138,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-18T12:00:00"
+    },
+    {
+      "id": 414,
+      "taskId": 138,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 415,
+      "taskId": 139,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 416,
+      "taskId": 139,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 417,
+      "taskId": 139,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 418,
+      "taskId": 140,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 419,
+      "taskId": 140,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-03T12:00:00"
+    },
+    {
+      "id": 420,
+      "taskId": 140,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 421,
+      "taskId": 141,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-28T12:00:00"
+    },
+    {
+      "id": 422,
+      "taskId": 141,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 423,
+      "taskId": 141,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 424,
+      "taskId": 142,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 425,
+      "taskId": 142,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-05T12:00:00"
+    },
+    {
+      "id": 426,
+      "taskId": 142,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 427,
+      "taskId": 143,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-26T12:00:00"
+    },
+    {
+      "id": 428,
+      "taskId": 143,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-26T12:00:00"
+    },
+    {
+      "id": 429,
+      "taskId": 143,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 430,
+      "taskId": 144,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-04T12:00:00"
+    },
+    {
+      "id": 431,
+      "taskId": 144,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-04T12:00:00"
+    },
+    {
+      "id": 432,
+      "taskId": 144,
+      "userId": 20,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 433,
+      "taskId": 145,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 434,
+      "taskId": 145,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 435,
+      "taskId": 145,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-20T12:00:00"
+    },
+    {
+      "id": 436,
+      "taskId": 146,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 437,
+      "taskId": 146,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 438,
+      "taskId": 146,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 439,
+      "taskId": 147,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-18T12:00:00"
+    },
+    {
+      "id": 440,
+      "taskId": 147,
+      "userId": 33,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-18T12:00:00"
+    },
+    {
+      "id": 441,
+      "taskId": 147,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 442,
+      "taskId": 148,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 443,
+      "taskId": 148,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 444,
+      "taskId": 148,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 445,
+      "taskId": 149,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 446,
+      "taskId": 149,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-27T12:00:00"
+    },
+    {
+      "id": 447,
+      "taskId": 149,
+      "userId": 3,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-27T12:00:00"
+    },
+    {
+      "id": 448,
+      "taskId": 150,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 449,
+      "taskId": 150,
+      "userId": 39,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 450,
+      "taskId": 150,
+      "userId": 10,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-16T12:00:00"
+    },
+    {
+      "id": 451,
+      "taskId": 151,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 452,
+      "taskId": 151,
+      "userId": 17,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 453,
+      "taskId": 151,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 454,
+      "taskId": 152,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-09T12:00:00"
+    },
+    {
+      "id": 455,
+      "taskId": 152,
+      "userId": 17,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 456,
+      "taskId": 152,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 457,
+      "taskId": 153,
+      "userId": 11,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-18T12:00:00"
+    },
+    {
+      "id": 458,
+      "taskId": 153,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-18T12:00:00"
+    },
+    {
+      "id": 459,
+      "taskId": 153,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 460,
+      "taskId": 154,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-26T12:00:00"
+    },
+    {
+      "id": 461,
+      "taskId": 154,
+      "userId": 11,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 462,
+      "taskId": 154,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 463,
+      "taskId": 155,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-12T12:00:00"
+    },
+    {
+      "id": 464,
+      "taskId": 155,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-12T12:00:00"
+    },
+    {
+      "id": 465,
+      "taskId": 155,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-12T12:00:00"
+    },
+    {
+      "id": 466,
+      "taskId": 156,
+      "userId": 11,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 467,
+      "taskId": 156,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 468,
+      "taskId": 156,
+      "userId": 25,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 469,
+      "taskId": 157,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 470,
+      "taskId": 157,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-05-31T12:00:00"
+    },
+    {
+      "id": 471,
+      "taskId": 157,
+      "userId": 25,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 472,
+      "taskId": 158,
+      "userId": 25,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 473,
+      "taskId": 158,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 474,
+      "taskId": 158,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 475,
+      "taskId": 159,
+      "userId": 11,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-10T12:00:00"
+    },
+    {
+      "id": 476,
+      "taskId": 159,
+      "userId": 25,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 477,
+      "taskId": 159,
+      "userId": 17,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-10T12:00:00"
+    },
+    {
+      "id": 478,
+      "taskId": 160,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-02T12:00:00"
+    },
+    {
+      "id": 479,
+      "taskId": 160,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-02T12:00:00"
+    },
+    {
+      "id": 480,
+      "taskId": 160,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-02T12:00:00"
+    },
+    {
+      "id": 481,
+      "taskId": 161,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 482,
+      "taskId": 161,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 483,
+      "taskId": 161,
+      "userId": 25,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-13T12:00:00"
+    },
+    {
+      "id": 484,
+      "taskId": 162,
+      "userId": 28,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-25T12:00:00"
+    },
+    {
+      "id": 485,
+      "taskId": 162,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 486,
+      "taskId": 162,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 487,
+      "taskId": 163,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-13T12:00:00"
+    },
+    {
+      "id": 488,
+      "taskId": 163,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 489,
+      "taskId": 163,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 490,
+      "taskId": 164,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 491,
+      "taskId": 164,
+      "userId": 32,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-12T12:00:00"
+    },
+    {
+      "id": 492,
+      "taskId": 164,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-12T12:00:00"
+    },
+    {
+      "id": 493,
+      "taskId": 165,
+      "userId": 27,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 494,
+      "taskId": 165,
+      "userId": 25,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 495,
+      "taskId": 165,
+      "userId": 13,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 496,
+      "taskId": 166,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-01T12:00:00"
+    },
+    {
+      "id": 497,
+      "taskId": 166,
+      "userId": 12,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 498,
+      "taskId": 166,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 499,
+      "taskId": 167,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-22T12:00:00"
+    },
+    {
+      "id": 500,
+      "taskId": 167,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 501,
+      "taskId": 167,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 502,
+      "taskId": 168,
+      "userId": 12,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 503,
+      "taskId": 168,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 504,
+      "taskId": 168,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 505,
+      "taskId": 169,
+      "userId": 12,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-29T12:00:00"
+    },
+    {
+      "id": 506,
+      "taskId": 169,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 507,
+      "taskId": 169,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 508,
+      "taskId": 170,
+      "userId": 12,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 509,
+      "taskId": 170,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 510,
+      "taskId": 170,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-22T12:00:00"
+    },
+    {
+      "id": 511,
+      "taskId": 171,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 512,
+      "taskId": 171,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 513,
+      "taskId": 171,
+      "userId": 12,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 514,
+      "taskId": 172,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 515,
+      "taskId": 172,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 516,
+      "taskId": 172,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 517,
+      "taskId": 173,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 518,
+      "taskId": 173,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 519,
+      "taskId": 173,
+      "userId": 12,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 520,
+      "taskId": 174,
+      "userId": 25,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 521,
+      "taskId": 174,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 522,
+      "taskId": 174,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 523,
+      "taskId": 175,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 524,
+      "taskId": 175,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-08-10T12:00:00"
+    },
+    {
+      "id": 525,
+      "taskId": 175,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 526,
+      "taskId": 176,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-21T12:00:00"
+    },
+    {
+      "id": 527,
+      "taskId": 176,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-21T12:00:00"
+    },
+    {
+      "id": 528,
+      "taskId": 176,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 529,
+      "taskId": 177,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "PENDING",
+      "completedAt": null
+    },
+    {
+      "id": 530,
+      "taskId": 177,
+      "userId": 34,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 531,
+      "taskId": 177,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-03T12:00:00"
+    },
+    {
+      "id": 532,
+      "taskId": 178,
+      "userId": 25,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-13T12:00:00"
+    },
+    {
+      "id": 533,
+      "taskId": 178,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 534,
+      "taskId": 178,
+      "userId": 6,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-07-13T12:00:00"
+    },
+    {
+      "id": 535,
+      "taskId": 179,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 536,
+      "taskId": 179,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 537,
+      "taskId": 179,
+      "userId": 12,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    },
+    {
+      "id": 538,
+      "taskId": 180,
+      "userId": 30,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-25T12:00:00"
+    },
+    {
+      "id": 539,
+      "taskId": 180,
+      "userId": 37,
+      "description": "Responsabilidade",
+      "status": "COMPLETED",
+      "completedAt": "2026-06-25T12:00:00"
+    },
+    {
+      "id": 540,
+      "taskId": 180,
+      "userId": 7,
+      "description": "Responsabilidade",
+      "status": "OVERDUE",
+      "completedAt": null
+    }
+  ]
+}

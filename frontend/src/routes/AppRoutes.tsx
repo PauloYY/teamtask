@@ -7,6 +7,7 @@ import GroupPage from "../pages/GroupPage";
 import Login from "../pages/Login";
 import Register from "../pages/Register";
 import TaskPage from "../pages/TaskPage";
+import MainLayout from "./MainLayout";
 
 export default function AppRoutes(){
     return(
@@ -15,14 +16,16 @@ export default function AppRoutes(){
                 <Routes>
 
                     <Route path="/login" element={<Login />} />
+                    <Route path="/register" element={<Register />} />
 
                     <Route element={<ProtectedRoute />}>
+                        <Route element={<MainLayout />}>
                         
-                        <Route path="/dashboard" element={<Dashboard />} />
-                        <Route path="/groups" element={<GroupPage />} />
-                        <Route path="/register" element={<Register />} />
-                        <Route path="/tasks" element={<TaskPage />} />
+                            <Route path="/dashboard" element={<Dashboard />} />
+                            <Route path="/groups" element={<GroupPage />} />
+                            <Route path="/tasks" element={<TaskPage />} />
 
+                        </Route>
                     </Route>
 
                 </Routes>

@@ -5,7 +5,7 @@ import { useAuth } from "../hooks/hooks";
 export default function ProtectedRoute(){
     const auth = useAuth();
     
-    if(auth?.authenticated){
+    if(auth?.infoAuth.authenticated){
         return <Outlet />
     }
 

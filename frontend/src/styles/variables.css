@@ -1,0 +1,169 @@
+:root.light {
+  /* ======== Cores principais ======== */
+
+  --color-primary: #2F6BFF;             /* Cor principal da identidade visual */
+  --color-primary-hover: #2458D8;       /* Cor do botão/link principal ao passar o mouse */
+  --color-primary-light: #EAF1FF;       /* Fundo para elementos destacados pela cor primária */
+
+  --color-secondary: #28C7A8;           /* Cor secundária para destaques e progresso */
+  --color-secondary-hover: #1FA489;     /* Estado hover da cor secundária */
+
+  --color-accent: #FFB84D;              /* Cor de destaque para avisos e informações importantes */
+
+  /* ======== Fundo ======== */
+
+  --color-background: #F6F8FC;          /* Cor de fundo principal da aplicação */
+  --color-surface: #FFFFFF;             /* Fundo de cards, modais e containers */
+  --color-surface-alt: #EEF2F8;         /* Fundo alternativo para seções ou áreas diferenciadas */
+
+  /* ======== Texto ======== */
+
+  --color-text: #1E293B;                /* Cor principal do texto */
+  --color-text-light: #64748B;          /* Texto secundário */
+  --color-text-muted: #94A3B8;          /* Texto menos importante ou desabilitado */
+  --color-text-white: #FFFFFF;          /* Texto sobre fundos escuros */
+
+  /* ======== Bordas ======== */
+
+  --color-border: #D8E0EC;              /* Cor padrão das bordas */
+  --color-border-strong: #C5D1E0;       /* Bordas com maior destaque */
+
+  /* ======== Estados ======== */
+
+  --color-success: #22C55E;             /* Sucesso, confirmação e tarefas concluídas */
+  --color-warning: #F59E0B;             /* Avisos e prazos próximos */
+  --color-error: #EF4444;               /* Erros e ações destrutivas */
+  --color-info: #3B82F6;                /* Informações e mensagens neutras */
+
+  /* ======== Sombras ======== */
+
+  --shadow-sm: 0 2px 8px rgba(15, 23, 42, 0.08);   /* Sombra leve */
+  --shadow-md: 0 8px 20px rgba(15, 23, 42, 0.12);  /* Sombra padrão para cards */
+  --shadow-lg: 0 14px 32px rgba(15, 23, 42, 0.20); /* Sombra forte para modais e elementos elevados */
+
+  /* ======== Bordas arredondadas ======== */
+
+  --radius-sm: 8px;                     /* Pequenos elementos */
+  --radius-md: 12px;                    /* Botões e inputs */
+  --radius-lg: 18px;                    /* Cards */
+  --radius-xl: 24px;                    /* Containers maiores */
+  --radius-pill: 999px;                 /* Elementos totalmente arredondados */
+
+  /* ======== Espaçamentos ======== */
+
+  --space-xs: 0.25rem;                  /* Espaçamento muito pequeno */
+  --space-sm: 0.5rem;                   /* Espaçamento pequeno */
+  --space-md: 1rem;                     /* Espaçamento padrão */
+  --space-lg: 1.5rem;                   /* Espaçamento grande */
+  --space-xl: 2rem;                     /* Espaçamento muito grande */
+  --space-2xl: 3rem;                    /* Espaçamento entre grandes seções */
+
+  /* ======== Tipografia ======== */
+
+  --font-family: "Inter", "Segoe UI", sans-serif; /* Fonte principal da aplicação */
+
+  --font-size-xs: 0.75rem;              /* Texto muito pequeno */
+  --font-size-sm: 0.875rem;             /* Texto secundário */
+  --font-size-md: 1rem;                 /* Texto padrão */
+  --font-size-lg: 1.125rem;             /* Subtítulos */
+  --font-size-xl: 1.5rem;               /* Títulos menores */
+  --font-size-2xl: 2rem;                /* Títulos principais */
+  --font-size-3xl: 2.75rem;             /* Títulos de destaque */
+
+  --font-weight-regular: 400;           /* Peso normal */
+  --font-weight-medium: 500;            /* Peso médio */
+  --font-weight-semibold: 600;          /* Semi-negrito */
+  --font-weight-bold: 700;              /* Negrito */
+
+  /* ======== Transições ======== */
+
+  --transition-fast: 0.15s ease;        /* Animações rápidas */
+  --transition-normal: 0.25s ease;      /* Velocidade padrão */
+  --transition-slow: 0.35s ease;        /* Animações mais suaves */
+}
+
+
+
+:root.dark {
+  /* ======== Cores principais ======== */
+
+  --color-primary: #5B8CFF;             /* Cor principal da identidade visual */
+  --color-primary-hover: #7AA2FF;       /* Cor do botão/link principal ao passar o mouse */
+  --color-primary-light: #243A69;       /* Fundo para elementos destacados pela cor primária */
+
+  --color-secondary: #3AD5B5;           /* Cor secundária para destaques e progresso */
+  --color-secondary-hover: #5FE3C7;     /* Estado hover da cor secundária */
+
+  --color-accent: #FFC96B;              /* Cor de destaque para avisos e informações importantes */
+
+  /* ======== Fundo ======== */
+
+  --color-background: #0F172A;          /* Cor de fundo principal da aplicação */
+  --color-surface: #1E293B;             /* Fundo de cards, modais e containers */
+  --color-surface-alt: #273449;         /* Fundo alternativo para seções ou áreas diferenciadas */
+
+  /* ======== Texto ======== */
+
+  --color-text: #F8FAFC;                /* Cor principal do texto */
+  --color-text-light: #CBD5E1;          /* Texto secundário */
+  --color-text-muted: #94A3B8;          /* Texto menos importante ou desabilitado */
+  --color-text-white: #FFFFFF;          /* Texto sobre fundos escuros */
+
+  /* ======== Bordas ======== */
+
+  --color-border: #334155;              /* Cor padrão das bordas */
+  --color-border-strong: #475569;       /* Bordas com maior destaque */
+
+  /* ======== Estados ======== */
+
+  --color-success: #4ADE80;             /* Sucesso, confirmação e tarefas concluídas */
+  --color-warning: #FBBF24;             /* Avisos e prazos próximos */
+  --color-error: #F87171;               /* Erros e ações destrutivas */
+  --color-info: #60A5FA;                /* Informações e mensagens neutras */
+
+  /* ======== Sombras ======== */
+
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.25);   /* Sombra leve */
+  --shadow-md: 0 8px 20px rgba(0, 0, 0, 0.35);  /* Sombra padrão para cards */
+  --shadow-lg: 0 14px 32px rgba(0, 0, 0, 0.45); /* Sombra forte para modais e elementos elevados */
+
+  /* ======== Bordas arredondadas ======== */
+
+  --radius-sm: 8px;                     /* Pequenos elementos */
+  --radius-md: 12px;                    /* Botões e inputs */
+  --radius-lg: 18px;                    /* Cards */
+  --radius-xl: 24px;                    /* Containers maiores */
+  --radius-pill: 999px;                 /* Elementos totalmente arredondados */
+
+  /* ======== Espaçamentos ======== */
+
+  --space-xs: 0.25rem;                  /* Espaçamento muito pequeno */
+  --space-sm: 0.5rem;                   /* Espaçamento pequeno */
+  --space-md: 1rem;                     /* Espaçamento padrão */
+  --space-lg: 1.5rem;                   /* Espaçamento grande */
+  --space-xl: 2rem;                     /* Espaçamento muito grande */
+  --space-2xl: 3rem;                    /* Espaçamento entre grandes seções */
+
+  /* ======== Tipografia ======== */
+
+  --font-family: "Inter", "Segoe UI", sans-serif; /* Fonte principal da aplicação */
+
+  --font-size-xs: 0.75rem;              /* Texto muito pequeno */
+  --font-size-sm: 0.875rem;             /* Texto secundário */
+  --font-size-md: 1rem;                 /* Texto padrão */
+  --font-size-lg: 1.125rem;             /* Subtítulos */
+  --font-size-xl: 1.5rem;               /* Títulos menores */
+  --font-size-2xl: 2rem;                /* Títulos principais */
+  --font-size-3xl: 2.75rem;             /* Títulos de destaque */
+
+  --font-weight-regular: 400;           /* Peso normal */
+  --font-weight-medium: 500;            /* Peso médio */
+  --font-weight-semibold: 600;          /* Semi-negrito */
+  --font-weight-bold: 700;              /* Negrito */
+
+  /* ======== Transições ======== */
+
+  --transition-fast: 0.15s ease;        /* Animações rápidas */
+  --transition-normal: 0.25s ease;      /* Velocidade padrão */
+  --transition-slow: 0.35s ease;        /* Animações mais suaves */
+}
